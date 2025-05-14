@@ -118,7 +118,24 @@
     "checkout_accent_color": "#edb3f2",
     "checkout_button_color": "#fbcaff",
     "checkout_error_color": "#d02e2e",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "5134484470793087125": {
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
+        "settings": {}
+      },
+      "1990815452989453926": {
+        "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-js/807ad6ed-1a6a-4559-abea-ed062858d9da",
+        "disabled": false,
+        "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Vibrant": {
