@@ -69,7 +69,7 @@
     "empty_cart_collection_overlay": true,
     "empty_cart_collection_text_color": "text-light",
     "empty_cart_button_text": "Shop now",
-    "empty_cart_button_link": "shopify://products/zero-splash-filters-4-pack",
+    "empty_cart_button_link": "shopify://collections/zero-splash-filters-4-pack",
     "empty_cart_buttons": "",
     "cart_custom_message_color": "text-dark",
     "enable_accept_terms": false,
