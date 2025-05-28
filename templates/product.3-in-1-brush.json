@@ -182,7 +182,7 @@
             "text": "<p>Shop Before It Ends</p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#000",
+            "highlight_color": "#000000",
             "highlight_text_color": ""
           }
         },
@@ -221,7 +221,6 @@
         "timer_9zcWja",
         "button_Bifzwt"
       ],
-      "name": "Countdown",
       "settings": {
         "layout_style": "inline",
         "text_alignment": "center",
@@ -230,7 +229,7 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#FFFFFF",
+        "bg_color": "#ffffff",
         "gradient": "",
         "text_color": "text-light",
         "text_width": "normal",
@@ -285,7 +284,6 @@
         "text_PHDT9t",
         "text_yj8paG"
       ],
-      "name": "Icons row",
       "settings": {
         "heading": "",
         "subheading": "",
@@ -297,9 +295,9 @@
         "heading_size": 120,
         "text_size": 100,
         "bg_color": "",
-        "text_color": "#333",
+        "text_color": "#333333",
         "box_color": "",
-        "color_border": "#333",
+        "color_border": "#333333",
         "button_text": "",
         "button_link": "",
         "button_color": "btn--black",
@@ -347,7 +345,6 @@
     },
     "section_image_with_text_aFUdpp": {
       "type": "section-image-with-text",
-      "name": "Image with text",
       "settings": {
         "section_height": "six-fifty-height",
         "layout": "inline",
@@ -357,7 +354,7 @@
         "subheading": "",
         "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>No spills</p>",
@@ -378,7 +375,6 @@
     },
     "section_image_with_text_9KtziG": {
       "type": "section-image-with-text",
-      "name": "Image with text",
       "settings": {
         "section_height": "six-fifty-height",
         "layout": "inline",
@@ -388,7 +384,7 @@
         "subheading": "",
         "title": "<p>Suitable for all breeds and sizes.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>Perfect for dogs & cats</p>",
@@ -409,7 +405,6 @@
     },
     "section_image_with_text_AqAhzX": {
       "type": "section-image-with-text",
-      "name": "Image with text",
       "settings": {
         "section_height": "six-fifty-height",
         "layout": "inline",
@@ -419,7 +414,7 @@
         "subheading": "",
         "title": "<p>Less refilling, more convenience for you and your pet.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>Summer 2025</p>",
