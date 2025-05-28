@@ -288,15 +288,15 @@
         "text_gyjEqa": {
           "type": "text",
           "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
+            "title": "How can I track my order?",
+            "text": "<p>After placing your order, you will receive a confirmation email with a tracking link. You can follow your order in real-time.</p>"
           }
         },
         "text_n4xnDG": {
           "type": "text",
           "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
+            "title": "Do your products come with a warranty?",
+            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
           }
         }
       },
