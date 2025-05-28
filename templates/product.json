@@ -305,6 +305,13 @@
             "title": "What payment methods do you accept?",
             "text": "<p>We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal</p>"
           }
+        },
+        "text_dxYfRd": {
+          "type": "text",
+          "settings": {
+            "title": "How do I choose the right size bed or bowl for my pet?",
+            "text": "<p>Each product page includes sizing information and recommendations. If you have any questions, feel free to reach out to us for assistance.</p>"
+          }
         }
       },
       "block_order": [
@@ -312,7 +319,8 @@
         "text_EpLfq6",
         "text_gyjEqa",
         "text_n4xnDG",
-        "text_r8D4eh"
+        "text_r8D4eh",
+        "text_dxYfRd"
       ],
       "settings": {
         "layout": "two-columns",
