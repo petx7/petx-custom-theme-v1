@@ -890,13 +890,21 @@
             "title": "Do your products come with a warranty?",
             "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
           }
+        },
+        "text_DKEqE8": {
+          "type": "text",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "text": "<p>We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal</p>"
+          }
         }
       },
       "block_order": [
         "text_nM3JHx",
         "text_9neALD",
         "text_gRA7ec",
-        "text_WR4RyU"
+        "text_WR4RyU",
+        "text_DKEqE8"
       ],
       "name": "Tabs",
       "settings": {
