@@ -247,13 +247,13 @@
           "settings": {
             "image": "shopify://shop_images/giphy.gif",
             "image_mobile": "shopify://shop_images/giphy.gif",
-            "subheading": "Our latest obsessions",
-            "title": "<p>We believe that fashion should be stylish, affordable and accessible to everyone.</p>",
+            "subheading": "No spills",
+            "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
             "button_text": "Shop now",
-            "button_link": "",
+            "button_link": "shopify://collections/no-spill-dog-bowl",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
