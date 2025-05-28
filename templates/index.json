@@ -887,8 +887,8 @@
         "text_WR4RyU": {
           "type": "text",
           "settings": {
-            "title": "What shipping methods do you offer?",
-            "text": "<p>We use all major carriers, and local courier partners. Use the shipping estimator in the cart to check your shipping rates.</p>"
+            "title": "Do your products come with a warranty?",
+            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
           }
         }
       },
