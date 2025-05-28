@@ -524,111 +524,6 @@
         "padding_bottom": 60
       }
     },
-    "section_testimonials_with_images_9MULWF": {
-      "type": "section-testimonials-with-images",
-      "blocks": {
-        "testimonial_fMaDVm": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": true,
-            "heading": "Amazing product!",
-            "text_size": 125,
-            "text": "<p>This pet bed completely changed my dog's sleeping habits. She's so calm and relaxed now. Highly recommend!</p>",
-            "customer_name": "",
-            "subheading": "<p>Happy customer</p>"
-          }
-        },
-        "image_U9CjCm": {
-          "type": "image",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": false,
-            "image": "shopify://shop_images/31231541.jpg",
-            "aspect_ratio": 0.8,
-            "heading": "Love it!",
-            "text_size": 125,
-            "customer_name": "Anna Brooks",
-            "block_color": "",
-            "text_color": "text-dark"
-          }
-        },
-        "testimonial_ViP7Xm": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": true,
-            "heading": "Best grooming tool ever!",
-            "text_size": 125,
-            "text": "<p>I’ve tried many grooming brushes, but this one is by far the easiest to use, and my cat loves it!</p>",
-            "customer_name": "Jake Harrison",
-            "subheading": "<p>12 days ago</p>"
-          }
-        },
-        "image_JjBcBy": {
-          "type": "image",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": false,
-            "image": "shopify://shop_images/31231412321.jpg",
-            "aspect_ratio": 0.8,
-            "heading": "Love it!",
-            "text_size": 125,
-            "customer_name": "Jake Harrison",
-            "block_color": "",
-            "text_color": "text-dark"
-          }
-        },
-        "testimonial_RCDrRq": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": true,
-            "heading": "Perfect for long trips!",
-            "text_size": 125,
-            "text": "<p>The car seat cover kept my backseat spotless even after a road trip with my golden retriever. Love it!</p>",
-            "customer_name": "Emily Davis",
-            "subheading": "<p>Verified customer</p>"
-          }
-        },
-        "image_WVgPng": {
-          "type": "image",
-          "settings": {
-            "star_rating": 5,
-            "enable_border": false,
-            "image": "shopify://shop_images/43242342352.jpg",
-            "aspect_ratio": 0.8,
-            "heading": "Love it!",
-            "text_size": 125,
-            "customer_name": "Emily Davis",
-            "block_color": "",
-            "text_color": "text-dark"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_fMaDVm",
-        "image_U9CjCm",
-        "testimonial_ViP7Xm",
-        "image_JjBcBy",
-        "testimonial_RCDrRq",
-        "image_WVgPng"
-      ],
-      "settings": {
-        "subheading": "",
-        "subheading_size": 100,
-        "title": "What Our Happy Pet Owners Are Saying",
-        "heading_size": 100,
-        "text_alignment": "text-left",
-        "bg_color": "",
-        "testimonial_block_color": "",
-        "star_color": "",
-        "testimonial_text_color": "text-dark",
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section_products_list_hFjwTX": {
       "type": "section-products-list",
       "blocks": {
@@ -859,6 +754,111 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_testimonials_with_images_9MULWF": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "testimonial_fMaDVm": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "Amazing product!",
+            "text_size": 125,
+            "text": "<p>This pet bed completely changed my dog's sleeping habits. She's so calm and relaxed now. Highly recommend!</p>",
+            "customer_name": "",
+            "subheading": "<p>Happy customer</p>"
+          }
+        },
+        "image_U9CjCm": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/31231541.jpg",
+            "aspect_ratio": 0.8,
+            "heading": "Love it!",
+            "text_size": 125,
+            "customer_name": "Anna Brooks",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "testimonial_ViP7Xm": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "Best grooming tool ever!",
+            "text_size": 125,
+            "text": "<p>I’ve tried many grooming brushes, but this one is by far the easiest to use, and my cat loves it!</p>",
+            "customer_name": "Jake Harrison",
+            "subheading": "<p>12 days ago</p>"
+          }
+        },
+        "image_JjBcBy": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/31231412321.jpg",
+            "aspect_ratio": 0.8,
+            "heading": "Love it!",
+            "text_size": 125,
+            "customer_name": "Jake Harrison",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "testimonial_RCDrRq": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "Perfect for long trips!",
+            "text_size": 125,
+            "text": "<p>The car seat cover kept my backseat spotless even after a road trip with my golden retriever. Love it!</p>",
+            "customer_name": "Emily Davis",
+            "subheading": "<p>Verified customer</p>"
+          }
+        },
+        "image_WVgPng": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/43242342352.jpg",
+            "aspect_ratio": 0.8,
+            "heading": "Love it!",
+            "text_size": 125,
+            "customer_name": "Emily Davis",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_fMaDVm",
+        "image_U9CjCm",
+        "testimonial_ViP7Xm",
+        "image_JjBcBy",
+        "testimonial_RCDrRq",
+        "image_WVgPng"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "What Our Happy Pet Owners Are Saying",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -872,11 +872,11 @@
     "section-marquee-2",
     "section-grid-1",
     "section-newsletter-0",
-    "section_icons_row_jdfMxj",
     "section_products_list_hFjwTX",
-    "section_testimonials_with_images_9MULWF",
-    "section_accordions_GHxiMM",
     "section_product_bCcw9r",
-    "section_blog_ir6niW"
+    "section_blog_ir6niW",
+    "section_accordions_GHxiMM",
+    "section_testimonials_with_images_9MULWF",
+    "section_icons_row_jdfMxj"
   ]
 }
