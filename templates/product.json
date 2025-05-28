@@ -22,6 +22,14 @@
             "padding_bottom": 20
           }
         },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
         "ryviu_reviews_qa_ryviu_total_4F9J7Y": {
           "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-total/807ad6ed-1a6a-4559-abea-ed062858d9da",
           "settings": {
@@ -29,12 +37,32 @@
             "show_average_rating": true
           }
         },
-        "inventory_countdown": {
-          "type": "inventory_countdown",
+        "icon_row_xeKEXt": {
+          "type": "icon_row",
           "settings": {
-            "max_inventory": 10,
-            "hide_inventory_count": true,
-            "padding_bottom": 20
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_image_1": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
+            "icon_width_1": 35,
+            "icon_text_1": "Dishwasher Safe & BPA Free",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_image_2": "shopify://shop_images/image_3.png",
+            "icon_width_2": 35,
+            "icon_text_2": "Natural Drinking Method",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_image_3": "shopify://shop_images/image_2_1.png",
+            "icon_width_3": 35,
+            "icon_text_3": "Minimizes Splashing & Dripping",
+            "icon_name_4": "none",
+            "icon_color_4": "",
+            "icon_image_4": "shopify://shop_images/image_9.png",
+            "icon_width_4": 35,
+            "icon_text_4": "Reduces Choking & Vomiting",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 36
           }
         },
         "form": {
@@ -113,8 +141,9 @@
       },
       "block_order": [
         "title",
-        "ryviu_reviews_qa_ryviu_total_4F9J7Y",
         "inventory_countdown",
+        "ryviu_reviews_qa_ryviu_total_4F9J7Y",
+        "icon_row_xeKEXt",
         "form",
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
         "product_accordion",
