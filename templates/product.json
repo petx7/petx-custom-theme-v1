@@ -463,8 +463,9 @@
           "type": "text",
           "settings": {
             "icon_name": "eco-friendly",
-            "title": "1% Donated",
-            "text": "<p>to forest conservation</p>"
+            "icon_image": "shopify://shop_images/image_2_1.png",
+            "title": "Minimizes Splashing & Dripping",
+            "text": ""
           }
         }
       },
@@ -479,7 +480,7 @@
         "heading": "",
         "subheading": "",
         "alignment": "center",
-        "columns": 3,
+        "columns": 4,
         "icons_width": 75,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
