@@ -103,9 +103,9 @@
         "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
           "type": "product_accordion",
           "settings": {
-            "accordion_heading": "Shipping and returns",
+            "accordion_heading": "Shipping Info",
             "heading_style": "font-body",
-            "accordion_text": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies</p>",
+            "accordion_text": "<p>We offer FREE shipping worldwide! 🌍 Due to the high volume of orders, delivery times are currently 7-9 business days. 📦 Order processing takes 1-3 business days before shipment. Once your items have been dispatched, the estimated delivery time is:</p><ul><li>Worldwide: 7-9 business days. 🌐</li></ul><p>Order now and enjoy fast and free delivery! 🚀</p>",
             "accordion_page": "",
             "padding_bottom": 10
           }
