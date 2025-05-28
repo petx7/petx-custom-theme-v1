@@ -77,6 +77,7 @@
         },
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "eco-friendly",
             "icon_color": "#fe0000",
