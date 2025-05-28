@@ -231,7 +231,7 @@
         "enable_zoom_animation": true,
         "bg_color": "#FFFFFF",
         "gradient": "",
-        "text_color": "text-dark",
+        "text_color": "text-light",
         "text_width": "normal",
         "width": "wrapper--full",
         "padding_top": 0,
