@@ -238,6 +238,78 @@
         "padding_bottom": 0
       }
     },
+    "section_icons_row_7Cra8A": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_WYkDHc": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "icon_image": "shopify://shop_images/image_3.png",
+            "title": "Natural Drinking Method",
+            "text": ""
+          }
+        },
+        "text_HhY4qP": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "icon_image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
+            "title": "Dishwasher Safe & BPA Free",
+            "text": ""
+          }
+        },
+        "text_PHDT9t": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_9.png",
+            "title": "Prevents Choking & Vomiting",
+            "text": ""
+          }
+        },
+        "text_yj8paG": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_2_1.png",
+            "title": "Minimizes Splashing & Dripping",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_WYkDHc",
+        "text_HhY4qP",
+        "text_PHDT9t",
+        "text_yj8paG"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 75,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333",
+        "box_color": "",
+        "color_border": "#333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "overlapping-images-0": {
       "type": "section-overlapping-images",
       "settings": {
@@ -428,88 +500,16 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_icons_row_7Cra8A": {
-      "type": "section-icons-row",
-      "blocks": {
-        "text_WYkDHc": {
-          "type": "text",
-          "settings": {
-            "icon_name": "truck",
-            "icon_image": "shopify://shop_images/image_3.png",
-            "title": "Natural Drinking Method",
-            "text": ""
-          }
-        },
-        "text_HhY4qP": {
-          "type": "text",
-          "settings": {
-            "icon_name": "check",
-            "icon_image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
-            "title": "Dishwasher Safe & BPA Free",
-            "text": ""
-          }
-        },
-        "text_PHDT9t": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eco-friendly",
-            "icon_image": "shopify://shop_images/image_9.png",
-            "title": "Prevents Choking & Vomiting",
-            "text": ""
-          }
-        },
-        "text_yj8paG": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eco-friendly",
-            "icon_image": "shopify://shop_images/image_2_1.png",
-            "title": "Minimizes Splashing & Dripping",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_WYkDHc",
-        "text_HhY4qP",
-        "text_PHDT9t",
-        "text_yj8paG"
-      ],
-      "name": "Icons row",
-      "settings": {
-        "heading": "",
-        "subheading": "",
-        "alignment": "center",
-        "columns": 4,
-        "icons_width": 75,
-        "show_vertical_borders": true,
-        "show_horizontal_borders": true,
-        "heading_size": 120,
-        "text_size": 100,
-        "bg_color": "",
-        "text_color": "#333",
-        "box_color": "",
-        "color_border": "#333",
-        "button_text": "",
-        "button_link": "",
-        "button_color": "btn--black",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "layout_mobile": "grid",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
     "main",
     "section_countdown_8GtydW",
+    "section_icons_row_7Cra8A",
     "overlapping-images-0",
     "tabs",
     "related",
     "174722145913e667de",
-    "section_image_with_text_aFUdpp",
-    "section_icons_row_7Cra8A"
+    "section_image_with_text_aFUdpp"
   ]
 }
