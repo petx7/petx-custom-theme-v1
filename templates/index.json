@@ -33,6 +33,79 @@
         "button_size": "btn--small"
       }
     },
+    "section_countdown_WrcXgA": {
+      "type": "section-countdown",
+      "blocks": {
+        "subheading_p9MjHh": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Countdown is on</p>",
+            "size": 75
+          }
+        },
+        "heading_Dt636z": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Shop Before It Ends</p>",
+            "size": 120,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": ""
+          }
+        },
+        "timer_y8P3jf": {
+          "type": "timer",
+          "settings": {
+            "end_date": "2025-06-02",
+            "end_time": "11:59",
+            "period": "am",
+            "end_message": "",
+            "size": 140,
+            "bg_color": "",
+            "bg_opacity": 100,
+            "text_color": "text-dark"
+          }
+        },
+        "button_FJXRJP": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Shop the sale",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_p9MjHh",
+        "heading_Dt636z",
+        "timer_y8P3jf",
+        "button_FJXRJP"
+      ],
+      "name": "Countdown",
+      "settings": {
+        "layout_style": "inline",
+        "text_alignment": "center",
+        "height": "150",
+        "enable_mobile_height": false,
+        "mobile_height": "400",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "bg_color": "#FFFFFF",
+        "gradient": "",
+        "text_color": "text-dark",
+        "text_width": "normal",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section-slideshow-0": {
       "type": "section-slideshow",
       "settings": {
@@ -786,83 +859,11 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_countdown_WrcXgA": {
-      "type": "section-countdown",
-      "blocks": {
-        "subheading_p9MjHh": {
-          "type": "subheading",
-          "settings": {
-            "text": "<p>Countdown is on</p>",
-            "size": 75
-          }
-        },
-        "heading_Dt636z": {
-          "type": "heading",
-          "settings": {
-            "text": "<p>Shop Before It Ends</p>",
-            "size": 120,
-            "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#000",
-            "highlight_text_color": ""
-          }
-        },
-        "timer_y8P3jf": {
-          "type": "timer",
-          "settings": {
-            "end_date": "2025-06-02",
-            "end_time": "11:59",
-            "period": "am",
-            "end_message": "",
-            "size": 140,
-            "bg_color": "",
-            "bg_opacity": 100,
-            "text_color": "text-dark"
-          }
-        },
-        "button_FJXRJP": {
-          "type": "button",
-          "settings": {
-            "button_1_text": "Shop the sale",
-            "button_1_link": "shopify://collections/all",
-            "button_1_color": "btn--white",
-            "button_1_style": "btn--solid-border",
-            "button_1_size": "btn--medium",
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_color": "btn--black",
-            "button_2_style": "btn--solid",
-            "button_2_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_p9MjHh",
-        "heading_Dt636z",
-        "timer_y8P3jf",
-        "button_FJXRJP"
-      ],
-      "name": "Countdown",
-      "settings": {
-        "layout_style": "inline",
-        "text_alignment": "center",
-        "height": "150",
-        "enable_mobile_height": false,
-        "mobile_height": "400",
-        "overlay_opacity": 10,
-        "enable_zoom_animation": true,
-        "bg_color": "#FFFFFF",
-        "gradient": "",
-        "text_color": "text-dark",
-        "text_width": "normal",
-        "width": "wrapper--full",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "section_video_cUbzJm",
+    "section_countdown_WrcXgA",
     "section-slideshow-0",
     "section-marquee-0",
     "section_marquee_Ug8e8y",
@@ -876,7 +877,6 @@
     "section_testimonials_with_images_9MULWF",
     "section_products_list_hFjwTX",
     "section_product_bCcw9r",
-    "section_blog_ir6niW",
-    "section_countdown_WrcXgA"
+    "section_blog_ir6niW"
   ]
 }
