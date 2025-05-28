@@ -281,13 +281,13 @@
           "settings": {
             "image": "shopify://shop_images/999.gif",
             "image_mobile": "shopify://shop_images/999.gif",
-            "subheading": "Summer 2024",
-            "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
+            "subheading": "Summer 2025",
+            "title": "<p>Less refilling, more convenience for you and your pet.</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
-            "button_text": "View lookbook",
-            "button_link": "",
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/no-spill-dog-bowl",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
