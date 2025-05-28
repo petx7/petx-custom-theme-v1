@@ -436,7 +436,7 @@
           "settings": {
             "icon_name": "truck",
             "title": "Free Shipping",
-            "text": "<p>on all order over $99</p>"
+            "text": "<p>on all order over $27</p>"
           }
         },
         "text_w6aWng": {
@@ -444,15 +444,15 @@
           "settings": {
             "icon_name": "check",
             "title": "Free Returns",
-            "text": "<p>within 30 days of purchase</p>"
+            "text": "<p>within 14 days of purchase</p>"
           }
         },
         "text_JpLi79": {
           "type": "text",
           "settings": {
-            "icon_name": "eco-friendly",
-            "title": "1% Donated",
-            "text": "<p>to forest conservation</p>"
+            "icon_name": "credit-card",
+            "title": "Secury Payments",
+            "text": ""
           }
         }
       },
