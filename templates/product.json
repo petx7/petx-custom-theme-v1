@@ -274,15 +274,15 @@
         "acordion-0": {
           "type": "text",
           "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
+            "title": "What kind of pet products do you offer?",
+            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
           }
         },
         "text_EpLfq6": {
           "type": "text",
           "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
+            "title": "Do you ship to the USA and Canada?",
+            "text": "<p>Yes, we provide shipping to the USA and Canada. We aim for fast and reliable delivery with every order.</p>"
           }
         },
         "text_gyjEqa": {
