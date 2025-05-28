@@ -449,81 +449,6 @@
         "padding_bottom": 100
       }
     },
-    "section-newsletter-0": {
-      "type": "section-newsletter",
-      "settings": {
-        "flex_align": "align--middle-center",
-        "text_color": "text-light",
-        "title": "JOIN THE VIP LIST",
-        "text": "<p>Be the first to know about new arrivals, secret discounts, and limited-time offers.<br/>Enter your email and get an exclusive promo code for your first purchase!</p>",
-        "extra_fields": "",
-        "button_text": "join the vip list",
-        "bg_color": "#000000",
-        "image_height": "two-fifty-height",
-        "overlay_opacity": 70,
-        "width": "wrapper",
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
-    "section_icons_row_jdfMxj": {
-      "type": "section-icons-row",
-      "blocks": {
-        "text_d9ggqM": {
-          "type": "text",
-          "settings": {
-            "icon_name": "truck",
-            "title": "Free Shipping",
-            "text": "<p>on all order over $27</p>"
-          }
-        },
-        "text_w6aWng": {
-          "type": "text",
-          "settings": {
-            "icon_name": "check",
-            "title": "Free Returns",
-            "text": "<p>within 14 days of purchase</p>"
-          }
-        },
-        "text_JpLi79": {
-          "type": "text",
-          "settings": {
-            "icon_name": "credit-card",
-            "title": "Secury Payments",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_d9ggqM",
-        "text_w6aWng",
-        "text_JpLi79"
-      ],
-      "settings": {
-        "heading": "",
-        "subheading": "",
-        "alignment": "center",
-        "columns": 3,
-        "icons_width": 20,
-        "show_vertical_borders": true,
-        "show_horizontal_borders": true,
-        "heading_size": 120,
-        "text_size": 100,
-        "bg_color": "",
-        "text_color": "#333333",
-        "box_color": "",
-        "color_border": "#333333",
-        "button_text": "",
-        "button_link": "",
-        "button_color": "btn--black",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "layout_mobile": "grid",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section_products_list_hFjwTX": {
       "type": "section-products-list",
       "blocks": {
@@ -597,72 +522,21 @@
         "padding_bottom": 60
       }
     },
-    "section_accordions_GHxiMM": {
-      "type": "section-accordions",
-      "blocks": {
-        "text_nM3JHx": {
-          "type": "text",
-          "settings": {
-            "title": "What kind of pet products do you offer?",
-            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
-          }
-        },
-        "text_9neALD": {
-          "type": "text",
-          "settings": {
-            "title": "Do you ship to the USA and Canada?",
-            "text": "<p>Yes, we provide shipping to the USA and Canada. We aim for fast and reliable delivery with every order.</p>"
-          }
-        },
-        "text_gRA7ec": {
-          "type": "text",
-          "settings": {
-            "title": "How can I track my order?",
-            "text": "<p>After placing your order, you will receive a confirmation email with a tracking link. You can follow your order in real-time.</p>"
-          }
-        },
-        "text_WR4RyU": {
-          "type": "text",
-          "settings": {
-            "title": "Do your products come with a warranty?",
-            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
-          }
-        },
-        "text_DKEqE8": {
-          "type": "text",
-          "settings": {
-            "title": "What payment methods do you accept?",
-            "text": "<p>We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal</p>"
-          }
-        },
-        "text_Ed8Yqe": {
-          "type": "text",
-          "settings": {
-            "title": "How do I choose the right size bed or bowl for my pet?",
-            "text": "<p>Each product page includes sizing information and recommendations. If you have any questions, feel free to reach out to us for assistance.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_nM3JHx",
-        "text_9neALD",
-        "text_gRA7ec",
-        "text_WR4RyU",
-        "text_DKEqE8",
-        "text_Ed8Yqe"
-      ],
+    "section-newsletter-0": {
+      "type": "section-newsletter",
       "settings": {
-        "layout": "two-columns",
-        "show_accordion_divider": false,
-        "title": "FAQ for PetX™",
-        "subheading": "",
-        "text": "",
-        "tabs_bg_color": "#fafafa",
-        "bg_color_secondary": false,
-        "text_color": "text-dark",
+        "flex_align": "align--middle-center",
+        "text_color": "text-light",
+        "title": "JOIN THE VIP LIST",
+        "text": "<p>Be the first to know about new arrivals, secret discounts, and limited-time offers.<br/>Enter your email and get an exclusive promo code for your first purchase!</p>",
+        "extra_fields": "",
+        "button_text": "join the vip list",
+        "bg_color": "#000000",
+        "image_height": "two-fifty-height",
+        "overlay_opacity": 70,
         "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "section_product_bCcw9r": {
@@ -750,6 +624,74 @@
         "button_size": "btn--small",
         "text_color": "text-dark",
         "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_accordions_GHxiMM": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_nM3JHx": {
+          "type": "text",
+          "settings": {
+            "title": "What kind of pet products do you offer?",
+            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
+          }
+        },
+        "text_9neALD": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship to the USA and Canada?",
+            "text": "<p>Yes, we provide shipping to the USA and Canada. We aim for fast and reliable delivery with every order.</p>"
+          }
+        },
+        "text_gRA7ec": {
+          "type": "text",
+          "settings": {
+            "title": "How can I track my order?",
+            "text": "<p>After placing your order, you will receive a confirmation email with a tracking link. You can follow your order in real-time.</p>"
+          }
+        },
+        "text_WR4RyU": {
+          "type": "text",
+          "settings": {
+            "title": "Do your products come with a warranty?",
+            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
+          }
+        },
+        "text_DKEqE8": {
+          "type": "text",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "text": "<p>We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal</p>"
+          }
+        },
+        "text_Ed8Yqe": {
+          "type": "text",
+          "settings": {
+            "title": "How do I choose the right size bed or bowl for my pet?",
+            "text": "<p>Each product page includes sizing information and recommendations. If you have any questions, feel free to reach out to us for assistance.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nM3JHx",
+        "text_9neALD",
+        "text_gRA7ec",
+        "text_WR4RyU",
+        "text_DKEqE8",
+        "text_Ed8Yqe"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "FAQ for PetX™",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
@@ -859,6 +801,64 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_icons_row_jdfMxj": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_d9ggqM": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all order over $27</p>"
+          }
+        },
+        "text_w6aWng": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Free Returns",
+            "text": "<p>within 14 days of purchase</p>"
+          }
+        },
+        "text_JpLi79": {
+          "type": "text",
+          "settings": {
+            "icon_name": "credit-card",
+            "title": "Secury Payments",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_d9ggqM",
+        "text_w6aWng",
+        "text_JpLi79"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -871,8 +871,8 @@
     "section-sticky-image-cards-0",
     "section-marquee-2",
     "section-grid-1",
-    "section-newsletter-0",
     "section_products_list_hFjwTX",
+    "section-newsletter-0",
     "section_product_bCcw9r",
     "section_blog_ir6niW",
     "section_accordions_GHxiMM",
