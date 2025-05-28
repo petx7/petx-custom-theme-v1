@@ -145,6 +145,8 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/54333.jpg",
+            "image_mobile": "shopify://shop_images/54333.jpg",
             "subheading": "Our latest obsessions",
             "title": "<p>We believe that fashion should be stylish, affordable and accessible to everyone.</p>",
             "heading_size": 160,
