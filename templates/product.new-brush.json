@@ -39,6 +39,7 @@
         },
         "icon_row_xeKEXt": {
           "type": "icon_row",
+          "disabled": true,
           "settings": {
             "icon_name_1": "truck",
             "icon_color_1": "",
