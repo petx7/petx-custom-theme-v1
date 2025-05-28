@@ -86,9 +86,9 @@
           "settings": {
             "icon_name": "support",
             "icon_width": 25,
-            "title": "Need help with this theme ?",
-            "text": "<p>VISIT OUR WEBSITE WWW.TRIKRU.CO FOR MORE THEMES </p>",
-            "bg_color": "#fe0000",
+            "title": "Need help with your order or have questions?",
+            "text": "<p>Our support team is here for you — just reach out at <a><strong>support@petx.store</strong></a>. We're happy to help!</p>",
+            "bg_color": "#000000",
             "text_color": "#ffffff",
             "padding_bottom": 20
           }

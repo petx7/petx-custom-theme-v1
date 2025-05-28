@@ -77,7 +77,7 @@
     "enable_accept_terms": false,
     "upsells_height": 100,
     "upsells_image_width": 30,
-    "upsells_bg_color": "#fe0000",
+    "upsells_bg_color": "#000000",
     "upsells_text_color": "#ffffff",
     "upsells_button_color": "btn--white",
     "upsells_button_style": "btn--solid",
