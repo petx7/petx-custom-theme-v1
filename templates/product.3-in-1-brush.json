@@ -1,0 +1,580 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "breadcrumbs",
+            "title_size": 100,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "ryviu_reviews_qa_ryviu_total_4F9J7Y": {
+          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-total/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "show_when_no_reviews": true,
+            "show_average_rating": true
+          }
+        },
+        "icon_row_xeKEXt": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_image_1": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
+            "icon_width_1": 35,
+            "icon_text_1": "Dishwasher Safe & BPA Free",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_image_2": "shopify://shop_images/image_3.png",
+            "icon_width_2": 35,
+            "icon_text_2": "Natural Drinking Method",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_image_3": "shopify://shop_images/image_2_1.png",
+            "icon_width_3": 35,
+            "icon_text_3": "Minimizes Splashing & Dripping",
+            "icon_name_4": "none",
+            "icon_color_4": "",
+            "icon_image_4": "shopify://shop_images/image_9.png",
+            "icon_width_4": 35,
+            "icon_text_4": "Reduces Choking & Vomiting",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 36
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_color": "#fe0000",
+            "icon_width": 20,
+            "icon_text": "SHOP AT WWW.TRIKRU.CO",
+            "text_size": 90,
+            "width": "full",
+            "text_alignment": "center",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Description",
+            "heading_style": "font-body",
+            "accordion_text": "<h1>PetX™ AquaGuard No-Spill Dog Water Bowl</h1><p></p><p>Ensure your beloved pet stays hydrated without the mess with the innovative Zoo Galaxy™ AquaGuard No-Spill Dog Water Bowl. Designed to cater to the natural drinking habits of your dog, this bowl combines functionality, safety, and convenience in one stylish package. Whether at home, on a road trip, or during outdoor activities, the AquaGuard bowl is your go-to solution for a clean, splash-free hydration experience.</p><h3>Why Choose Zoo Galaxy™ AquaGuard No-Spill Dog Water Bowl?</h3><h4>1. <strong>No More Messy Floors</strong></h4><p>The AquaGuard bowl features a unique double-layer design with a splash-proof rim and floating disk that effectively minimizes water spillage. This means no more wet floors or constant clean-ups after your dog drinks. Enjoy a tidier home while providing your pet with easy access to water.</p><h4>2. <strong>Slow Water Dispensing for Healthier Drinking</strong></h4><p>The bowl's innovative floating disk only releases a small amount of water at a time, encouraging your dog to drink slowly. This reduces the risk of choking and vomiting, making it particularly beneficial for dogs that tend to gulp their water too quickly. It's an ideal choice for puppies, elderly dogs, and those with digestive issues.</p><p></p><h4>3. <strong>Perfect for Travel and Active Lifestyles</strong></h4><p>Whether you're on a road trip or spending a day outdoors, the AquaGuard bowl ensures your pet stays hydrated without the hassle of spills. Its anti-splash design and stable, anti-slip base make it perfect for use in cars, RVs, and even camping trips. Keep your pet comfortable and hydrated wherever you go.</p><h4>4. <strong>Large Capacity for All-Day Hydration</strong></h4><p>With a generous 152oz/4.5L capacity, this bowl is ideal for families with multiple pets or large dog breeds. You won’t need to refill it constantly, even during the busiest days. Plus, the spacious design accommodates dogs of all sizes, ensuring they always have access to fresh water.</p><h4>5. <strong>High-Quality, Pet-Safe Materials</strong></h4><p>Your pet’s health is our priority. The AquaGuard bowl is made from premium stainless steel and BPA-free plastic, providing a safe, durable, and non-toxic option for your furry friend. The sturdy construction resists wear and tear, and the stainless steel material prevents bacterial growth, ensuring the water stays fresh and clean.</p><p></p><h4>6. <strong>Easy to Clean and Maintain</strong></h4><p>The AquaGuard bowl is designed for hassle-free maintenance. The floating disk and silicone plug are easily removable for thorough cleaning, and they can be hand-washed or placed in the dishwasher. We recommend cleaning the floating disk at least once a week to maintain optimal water quality. With minimal effort, you can keep your pet's drinking water clean and hygienic.</p><h4>7. <strong>Enhanced Filtration for Pure Water</strong></h4><p>The AquaGuard bowl is compatible with Zoo Galaxy™ AquaGuard Replacement Filters, which use activated carbon and ion exchange resin to remove impurities, debris, and odors from the water. This encourages your pet to drink more, supporting their overall health. Regularly replace the filters to ensure your dog always has access to the cleanest water possible.</p><p></p><h3>Recommendations for Optimal Use</h3><p><strong>Placement:</strong> Place the bowl on a flat, stable surface away from high-traffic areas to avoid accidental tipping. The anti-slip base helps keep the bowl in place, even on slippery surfaces.</p><p><strong>Travel Tips:</strong> When using the bowl in the car, ensure it's on a flat surface and secured to prevent movement. The spill-proof design is effective even on bumpy roads, but for added security, consider placing it in a designated pet travel area.</p><p><strong>Filter Maintenance:</strong> To keep the water fresh, replace the AquaGuard filters every 3-4 weeks, or more frequently if the water quality is poor. Soak the new filters in clean water for 10 minutes before use to activate the carbon and prevent dust particles from entering the water.</p><p><strong>Cleaning Routine:</strong> Clean the bowl, floating disk, and silicone plug at least once a week. For best results, disassemble the parts and use warm, soapy water. Rinse thoroughly and air dry before reassembling.</p><p></p><h3>Make the Smart Choice for Your Pet's Health</h3><p>The Zoo Galaxy™ AquaGuard No-Spill Dog Water Bowl is more than just a water bowl—it's a commitment to your pet's well-being. By providing clean, spill-free water access, you're helping your pet stay hydrated and healthy while keeping your home clean and dry. Give your dog the best with Zoo Galaxy™ AquaGuard and enjoy peace of mind knowing you’re providing the highest quality care.</p><p> </p>",
+            "accordion_page": "",
+            "padding_bottom": 10
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Shipping Info",
+            "heading_style": "font-body",
+            "accordion_text": "<p>We offer FREE shipping worldwide! 🌍 Due to the high volume of orders, delivery times are currently 7-9 business days. 📦 Order processing takes 1-3 business days before shipment. Once your items have been dispatched, the estimated delivery time is:</p><ul><li>Worldwide: 7-9 business days. 🌐</li></ul><p>Order now and enjoy fast and free delivery! 🚀</p>",
+            "accordion_page": "",
+            "padding_bottom": 10
+          }
+        },
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Need help with your order or have questions?",
+            "text": "<p>Our support team is here for you — just reach out at <a><strong>support@petx.store</strong></a>. We're happy to help!</p>",
+            "bg_color": "#000000",
+            "text_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "zero-splash-filters-4-pack",
+              "petx-the-ultimate-zero-splash-water-bowl",
+              "petx-aquaguard-no-spill-dog-water-bowl"
+            ],
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "inventory_countdown",
+        "ryviu_reviews_qa_ryviu_total_4F9J7Y",
+        "icon_row_xeKEXt",
+        "form",
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
+        "product_accordion",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
+        "upsell",
+        "description"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": false,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_countdown_8GtydW": {
+      "type": "section-countdown",
+      "blocks": {
+        "subheading_PHPgNb": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Countdown is on</p>",
+            "size": 75
+          }
+        },
+        "heading_HJ3d9F": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Shop Before It Ends</p>",
+            "size": 120,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": ""
+          }
+        },
+        "timer_9zcWja": {
+          "type": "timer",
+          "settings": {
+            "end_date": "2025-06-01",
+            "end_time": "11:59",
+            "period": "am",
+            "end_message": "",
+            "size": 140,
+            "bg_color": "",
+            "bg_opacity": 100,
+            "text_color": "text-dark"
+          }
+        },
+        "button_Bifzwt": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Shop the sale",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PHPgNb",
+        "heading_HJ3d9F",
+        "timer_9zcWja",
+        "button_Bifzwt"
+      ],
+      "name": "Countdown",
+      "settings": {
+        "layout_style": "inline",
+        "text_alignment": "center",
+        "height": "150",
+        "enable_mobile_height": false,
+        "mobile_height": "400",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "bg_color": "#FFFFFF",
+        "gradient": "",
+        "text_color": "text-light",
+        "text_width": "normal",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_icons_row_7Cra8A": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_WYkDHc": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "icon_image": "shopify://shop_images/image_3.png",
+            "title": "Natural Drinking Method",
+            "text": ""
+          }
+        },
+        "text_HhY4qP": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "icon_image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
+            "title": "Dishwasher Safe & BPA Free",
+            "text": ""
+          }
+        },
+        "text_PHDT9t": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_9.png",
+            "title": "Prevents Choking & Vomiting",
+            "text": ""
+          }
+        },
+        "text_yj8paG": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_2_1.png",
+            "title": "Minimizes Splashing & Dripping",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_WYkDHc",
+        "text_HhY4qP",
+        "text_PHDT9t",
+        "text_yj8paG"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 75,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333",
+        "box_color": "",
+        "color_border": "#333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "overlapping-images-0": {
+      "type": "section-overlapping-images",
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/1.png",
+        "image_link_1": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
+        "image_2": "shopify://shop_images/3.png",
+        "image_link_2": "shopify://products/zero-splash-filters-4-pack",
+        "hide_image_2": false,
+        "title": "<p>PetX™ AquaGuard 4.5L Spill-Free Dog Water Bowl</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#fe0000",
+        "highlight_text_color": "",
+        "description": "",
+        "heading_size": 100,
+        "button_text": "Shop now",
+        "button_link": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_aFUdpp": {
+      "type": "section-image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/giphy.gif",
+        "subheading": "",
+        "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 130,
+        "content": "<p>No spills</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_9KtziG": {
+      "type": "section-image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
+        "subheading": "",
+        "title": "<p>Suitable for all breeds and sizes.</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 130,
+        "content": "<p>Perfect for dogs & cats</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_AqAhzX": {
+      "type": "section-image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/999.gif",
+        "subheading": "",
+        "title": "<p>Less refilling, more convenience for you and your pet.</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 130,
+        "content": "<p>Summer 2025</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "What kind of pet products do you offer?",
+            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
+          }
+        },
+        "text_EpLfq6": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship to the USA and Canada?",
+            "text": "<p>Yes, we provide shipping to the USA and Canada. We aim for fast and reliable delivery with every order.</p>"
+          }
+        },
+        "text_gyjEqa": {
+          "type": "text",
+          "settings": {
+            "title": "How can I track my order?",
+            "text": "<p>After placing your order, you will receive a confirmation email with a tracking link. You can follow your order in real-time.</p>"
+          }
+        },
+        "text_n4xnDG": {
+          "type": "text",
+          "settings": {
+            "title": "Do your products come with a warranty?",
+            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
+          }
+        },
+        "text_r8D4eh": {
+          "type": "text",
+          "settings": {
+            "title": "What payment methods do you accept?",
+            "text": "<p>We accept major credit cards (Visa, Mastercard, American Express) as well as PayPal</p>"
+          }
+        },
+        "text_dxYfRd": {
+          "type": "text",
+          "settings": {
+            "title": "How do I choose the right size bed or bowl for my pet?",
+            "text": "<p>Each product page includes sizing information and recommendations. If you have any questions, feel free to reach out to us for assistance.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "text_EpLfq6",
+        "text_gyjEqa",
+        "text_n4xnDG",
+        "text_r8D4eh",
+        "text_dxYfRd"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "WHERE TO BUY SHOPIFY THEME",
+        "subheading": "WWW.TRIKRU.CO",
+        "text": "<p>BUILT BY TRIKRU</p>",
+        "tabs_bg_color": "#000000",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "174722145913e667de": {
+      "type": "apps",
+      "blocks": {
+        "ryviu_reviews_qa_ryviu_widget_rXQ66r": {
+          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-widget/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "r_wapper_class": "",
+            "r_max_width": 1920,
+            "r_padding_block": 0,
+            "hide_when_no_reviews": false,
+            "one_col_on_mobile": false,
+            "hide_title_image_form": false
+          }
+        }
+      },
+      "block_order": [
+        "ryviu_reviews_qa_ryviu_widget_rXQ66r"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_countdown_8GtydW",
+    "section_icons_row_7Cra8A",
+    "overlapping-images-0",
+    "section_image_with_text_aFUdpp",
+    "section_image_with_text_9KtziG",
+    "section_image_with_text_AqAhzX",
+    "tabs",
+    "related",
+    "174722145913e667de"
+  ]
+}
