@@ -490,9 +490,9 @@
       "settings": {
         "layout": "two-columns",
         "show_accordion_divider": false,
-        "title": "WHERE TO BUY SHOPIFY THEME",
-        "subheading": "WWW.TRIKRU.CO",
-        "text": "<p>BUILT BY TRIKRU</p>",
+        "title": "",
+        "subheading": "",
+        "text": "",
         "tabs_bg_color": "#000000",
         "bg_color_secondary": false,
         "text_color": "text-light",
