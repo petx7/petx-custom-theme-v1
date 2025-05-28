@@ -245,8 +245,8 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/54333.jpg",
-            "image_mobile": "shopify://shop_images/54333.jpg",
+            "image": "shopify://shop_images/giphy.gif",
+            "image_mobile": "shopify://shop_images/giphy.gif",
             "subheading": "Our latest obsessions",
             "title": "<p>We believe that fashion should be stylish, affordable and accessible to everyone.</p>",
             "heading_size": 160,
@@ -262,6 +262,8 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
+            "image_mobile": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
             "subheading": "",
             "title": "<p>Sustainable trends you'll love! Our mission is to empower people through sustainable fashion.</p>",
             "heading_size": 160,
