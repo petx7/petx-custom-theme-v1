@@ -130,7 +130,7 @@
         "section-marquee-0-block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>USE THIS TO PROMOTE <em><strong>Bloom Beauty</strong></em></p>",
+            "text": "<p>Welcome to <em><strong>PETX</strong></em></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -174,7 +174,7 @@
         "text_WrFRTM": {
           "type": "text",
           "settings": {
-            "text": "<p>USE THIS TO PROMOTE <em><strong>WWW.TRIKRU.CO</strong></em></p>",
+            "text": "<p>Welcome to <em><strong>PETX</strong></em></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -864,8 +864,9 @@
   "order": [
     "section_video_cUbzJm",
     "section_countdown_WrcXgA",
-    "section-slideshow-0",
     "section-marquee-0",
+    "section_collection_y8x3df",
+    "section-slideshow-0",
     "section_marquee_Ug8e8y",
     "section-sticky-image-cards-0",
     "section-marquee-2",
@@ -873,7 +874,6 @@
     "section-look-0",
     "section-newsletter-0",
     "section_icons_row_jdfMxj",
-    "section_collection_y8x3df",
     "section_testimonials_with_images_9MULWF",
     "section_products_list_hFjwTX",
     "section_product_bCcw9r",
