@@ -279,6 +279,8 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/999.gif",
+            "image_mobile": "shopify://shop_images/999.gif",
             "subheading": "Summer 2024",
             "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
             "heading_size": 160,
