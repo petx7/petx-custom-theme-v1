@@ -264,13 +264,13 @@
           "settings": {
             "image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
             "image_mobile": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
-            "subheading": "",
-            "title": "<p>Sustainable trends you'll love! Our mission is to empower people through sustainable fashion.</p>",
+            "subheading": "Perfect for dogs & cats",
+            "title": "<p>Suitable for all breeds and sizes.</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
-            "button_text": "Learn more",
-            "button_link": "",
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/no-spill-dog-bowl",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
