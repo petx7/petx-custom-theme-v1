@@ -49,7 +49,7 @@
             "text": "<p>Shop Before It Ends</p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#000",
+            "highlight_color": "#000000",
             "highlight_text_color": ""
           }
         },
@@ -88,7 +88,6 @@
         "timer_y8P3jf",
         "button_FJXRJP"
       ],
-      "name": "Countdown",
       "settings": {
         "layout_style": "inline",
         "text_alignment": "center",
@@ -97,7 +96,7 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#FFFFFF",
+        "bg_color": "#ffffff",
         "gradient": "",
         "text_color": "text-dark",
         "text_width": "normal",
@@ -394,6 +393,7 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/55.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "Introducing",
@@ -410,13 +410,14 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/1.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
-            "subheading": "Introducing",
-            "title": "New Arrivals",
-            "text": "Add more info or delete this text",
+            "subheading": "2025",
+            "title": "PetX™ AquaGuard 4.5L Spill-Free Dog Water Bowl",
+            "text": "",
             "button_1_text": "Shop Now",
-            "button_1_link": "",
+            "button_1_link": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
             "button_2_text": "",
             "button_2_link": "",
             "overlay_text_color": "text-light"
@@ -767,7 +768,6 @@
     },
     "section_blog_ir6niW": {
       "type": "section-blog",
-      "name": "Blog posts",
       "settings": {
         "blog": "news",
         "blog_style": "photo",
@@ -846,7 +846,6 @@
         "text_DKEqE8",
         "text_Ed8Yqe"
       ],
-      "name": "Tabs",
       "settings": {
         "layout": "two-columns",
         "show_accordion_divider": false,
