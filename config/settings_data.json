@@ -96,7 +96,7 @@
     "show_rounded_corners": false,
     "increase_border_radius": false,
     "mobile_menu_behaviour": "link",
-    "animations_enabled": true,
+    "animations_enabled": false,
     "show_sale_badge": true,
     "sale_bg_color": "#fe0000",
     "custom_bg_color": "#ffffff",
