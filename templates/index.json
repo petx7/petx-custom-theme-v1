@@ -227,6 +227,7 @@
         "section-marquee-2-block-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/6666666.png",
             "link": "",
             "image_width": 160
           }
@@ -249,6 +250,7 @@
         "section-marquee-2-block-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/2025-01-06_07.44.47.png",
             "link": "",
             "image_width": 160
           }
@@ -694,6 +696,71 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_product_bCcw9r": {
+      "type": "section-product",
+      "blocks": {
+        "title_PfGUMd": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "title_size": 100,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown_c7HGdN": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "upsell_LDMh69": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "zero-splash-filters-4-pack"
+            ],
+            "product": "zero-splash-filters-4-pack",
+            "padding_bottom": 20
+          }
+        },
+        "form_XEkaQN": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title_PfGUMd",
+        "inventory_countdown_c7HGdN",
+        "upsell_LDMh69",
+        "form_XEkaQN"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "product": "petx-aquaguard-no-spill-dog-water-bowl",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "hide_product_thumbnails": false,
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -709,6 +776,7 @@
     "section_icons_row_jdfMxj",
     "section_collection_y8x3df",
     "section_testimonials_with_images_9MULWF",
-    "section_products_list_hFjwTX"
+    "section_products_list_hFjwTX",
+    "section_product_bCcw9r"
   ]
 }
