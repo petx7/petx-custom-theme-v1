@@ -490,17 +490,16 @@
     },
     "section_collection_y8x3df": {
       "type": "section-collection",
-      "name": "Featured collection",
       "settings": {
         "collection": "no-spill-dog-bowl",
-        "products_layout": "grid",
-        "number_of_products": 25,
+        "products_layout": "carousel",
+        "number_of_products": 29,
         "products_per_row_on_desktop": 4,
         "columns_mobile": "2",
         "text_alignment": "text-left",
         "title": "<p>Best Sellers</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 100,
         "text": "<p>Top selling Products.</p>",
@@ -607,7 +606,6 @@
         "testimonial_RCDrRq",
         "image_WVgPng"
       ],
-      "name": "Testimonials with images",
       "settings": {
         "subheading": "",
         "subheading_size": 100,
@@ -683,7 +681,6 @@
         "product_QEPawN",
         "product_xGY3tR"
       ],
-      "name": "Products list",
       "settings": {
         "title": "",
         "heading_size": 100,
@@ -746,7 +743,6 @@
         "upsell_LDMh69",
         "form_XEkaQN"
       ],
-      "name": "Featured product",
       "settings": {
         "product": "petx-aquaguard-no-spill-dog-water-bowl",
         "product_sticky_enable": true,
