@@ -644,10 +644,10 @@
         "product_QEPawN": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "petx-zero-splash-water-bowl-clean-filtered-2l",
             "title": "",
             "product_description": "",
-            "button_text": "View Product",
+            "button_text": "Shop Now",
             "show_second_image": true,
             "show_circle": true,
             "hide_on_mobile": false,
