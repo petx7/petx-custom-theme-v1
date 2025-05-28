@@ -106,24 +106,6 @@
         "padding_bottom": 0
       }
     },
-    "section-slideshow-0": {
-      "type": "section-slideshow",
-      "settings": {
-        "slide_height": "seven-fifty-height",
-        "enable_mobile_height": true,
-        "mobile_slide_height": "seven-fifty-height-mobile",
-        "show_nav_dots": true,
-        "show_nav_arrows": false,
-        "show_arrow_down": false,
-        "autoplay": true,
-        "duration": 4,
-        "transition": "zoom-out",
-        "enable_zoom_animation": true,
-        "enable_card_scrolling": true,
-        "increase_border_radius": true,
-        "heading_size": 160
-      }
-    },
     "section-marquee-0": {
       "type": "section-marquee",
       "blocks": {
@@ -166,6 +148,52 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_collection_y8x3df": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "no-spill-dog-bowl",
+        "products_layout": "carousel",
+        "number_of_products": 29,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Best Sellers</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "<p>Top selling Products.</p>",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section-slideshow-0": {
+      "type": "section-slideshow",
+      "settings": {
+        "slide_height": "seven-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_slide_height": "seven-fifty-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": false,
+        "show_arrow_down": false,
+        "autoplay": true,
+        "duration": 4,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": true,
+        "increase_border_radius": true,
+        "heading_size": 160
       }
     },
     "section_marquee_Ug8e8y": {
@@ -563,34 +591,6 @@
         "padding_bottom": 60
       }
     },
-    "section_collection_y8x3df": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "no-spill-dog-bowl",
-        "products_layout": "carousel",
-        "number_of_products": 29,
-        "products_per_row_on_desktop": 4,
-        "columns_mobile": "2",
-        "text_alignment": "text-left",
-        "title": "<p>Best Sellers</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000000",
-        "highlight_text_color": "",
-        "heading_size": 100,
-        "text": "<p>Top selling Products.</p>",
-        "text_size": 100,
-        "button_position": "top",
-        "button_text": "Shop Now",
-        "button_color": "btn--black",
-        "button_style": "btn--text",
-        "button_size": "btn--large",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": true,
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section_testimonials_with_images_9MULWF": {
       "type": "section-testimonials-with-images",
       "blocks": {
@@ -859,6 +859,59 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_accordions_GHxiMM": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_nM3JHx": {
+          "type": "text",
+          "settings": {
+            "title": "What kind of pet products do you offer?",
+            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
+          }
+        },
+        "text_9neALD": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship to the USA and Canada?",
+            "text": "<p>Yes, we provide shipping to the USA and Canada. We aim for fast and reliable delivery with every order.</p>"
+          }
+        },
+        "text_gRA7ec": {
+          "type": "text",
+          "settings": {
+            "title": "How can I track my order?",
+            "text": "<p>After placing your order, you will receive a confirmation email with a tracking link. You can follow your order in real-time.</p>"
+          }
+        },
+        "text_WR4RyU": {
+          "type": "text",
+          "settings": {
+            "title": "What shipping methods do you offer?",
+            "text": "<p>We use all major carriers, and local courier partners. Use the shipping estimator in the cart to check your shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nM3JHx",
+        "text_9neALD",
+        "text_gRA7ec",
+        "text_WR4RyU"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "FAQ for PetX™",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -877,6 +930,7 @@
     "section_testimonials_with_images_9MULWF",
     "section_products_list_hFjwTX",
     "section_product_bCcw9r",
-    "section_blog_ir6niW"
+    "section_blog_ir6niW",
+    "section_accordions_GHxiMM"
   ]
 }
