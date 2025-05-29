@@ -33,7 +33,7 @@
         "ryviu_reviews_qa_ryviu_total_4F9J7Y": {
           "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-total/807ad6ed-1a6a-4559-abea-ed062858d9da",
           "settings": {
-            "show_when_no_reviews": true,
+            "show_when_no_reviews": false,
             "show_average_rating": true
           }
         },
