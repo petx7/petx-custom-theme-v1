@@ -245,8 +245,6 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/giphy.gif",
-            "image_mobile": "shopify://shop_images/giphy.gif",
             "subheading": "No spills",
             "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
             "heading_size": 160,
@@ -262,8 +260,6 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
-            "image_mobile": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
             "subheading": "Perfect for dogs & cats",
             "title": "<p>Suitable for all breeds and sizes.</p>",
             "heading_size": 160,
@@ -279,8 +275,6 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/999.gif",
-            "image_mobile": "shopify://shop_images/999.gif",
             "subheading": "Summer 2025",
             "title": "<p>Less refilling, more convenience for you and your pet.</p>",
             "heading_size": 160,
@@ -333,7 +327,6 @@
         "section-marquee-2-block-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/6666666.png",
             "link": "",
             "image_width": 160
           }
@@ -356,7 +349,6 @@
         "section-marquee-2-block-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2025-01-06_07.44.47.png",
             "link": "",
             "image_width": 160
           }
@@ -397,7 +389,6 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify://shop_images/55.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "2025",
@@ -414,7 +405,6 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify://shop_images/1.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "2025",
@@ -593,7 +583,7 @@
         "form_XEkaQN"
       ],
       "settings": {
-        "product": "petx-aquaguard-no-spill-dog-water-bowl",
+        "product": "vxcvxvx",
         "product_sticky_enable": true,
         "image_layout": "carousel",
         "image_width": "standard",
@@ -721,7 +711,6 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
-            "image": "shopify://shop_images/31231541.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
@@ -747,7 +736,6 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
-            "image": "shopify://shop_images/31231412321.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
@@ -773,7 +761,6 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
-            "image": "shopify://shop_images/43242342352.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
@@ -866,23 +853,6 @@
     },
     "17485147604f99fdce": {
       "type": "apps",
-      "blocks": {
-        "ryviu_reviews_qa_ryviu_featured_widget_yFjEdi": {
-          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-featured-widget/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "title_heading": "Happy Customer",
-            "title_align": "r_center",
-            "title_status": true,
-            "type_ryviu": "default",
-            "r_wapper_featured": "",
-            "r_max_width_featured": 1920,
-            "padding_block": 0
-          }
-        }
-      },
-      "block_order": [
-        "ryviu_reviews_qa_ryviu_featured_widget_yFjEdi"
-      ],
       "settings": {
         "bg_color": "",
         "width": "wrapper",
