@@ -800,14 +800,14 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "title": "Dostawa",
-            "text": "<p>w 60 minut w Tychach</p>"
+            "title": "Dostawa w 60 minut w Tychach",
+            "text": ""
           }
         },
         "text_w6aWng": {
           "type": "text",
           "settings": {
-            "icon_name": "fair-trade",
+            "icon_name": "calendar",
             "title": "Darmowa dostawa pierwszego zamówienia",
             "text": ""
           }
