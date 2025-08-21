@@ -800,23 +800,31 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "title": "Free Shipping",
-            "text": "<p>on all order over $27</p>"
+            "title": "Dostawa",
+            "text": "<p>w 60 minut w Tychach</p>"
           }
         },
         "text_w6aWng": {
           "type": "text",
           "settings": {
-            "icon_name": "check",
-            "title": "Free Returns",
-            "text": "<p>within 14 days of purchase</p>"
+            "icon_name": "fair-trade",
+            "title": "Darmowa dostawa pierwszego zamówienia",
+            "text": ""
           }
         },
         "text_JpLi79": {
           "type": "text",
           "settings": {
             "icon_name": "credit-card",
-            "title": "Secury Payments",
+            "title": "Łatwe i szybkie płatności online",
+            "text": ""
+          }
+        },
+        "text_AzMaDA": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "Starannie dobrane marki premium",
             "text": ""
           }
         }
@@ -824,13 +832,14 @@
       "block_order": [
         "text_d9ggqM",
         "text_w6aWng",
-        "text_JpLi79"
+        "text_JpLi79",
+        "text_AzMaDA"
       ],
       "settings": {
         "heading": "",
         "subheading": "",
         "alignment": "center",
-        "columns": 3,
+        "columns": 4,
         "icons_width": 20,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
