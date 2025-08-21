@@ -46,7 +46,7 @@
         "heading_Dt636z": {
           "type": "heading",
           "settings": {
-            "text": "<p>Shop Before It Ends</p>",
+            "text": "<p>Darmowa dostawa na Twój pierwszy zakup</p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
             "highlight_color": "#000000",
@@ -56,7 +56,7 @@
         "timer_y8P3jf": {
           "type": "timer",
           "settings": {
-            "end_date": "2025-06-02",
+            "end_date": "2025-08-31",
             "end_time": "11:59",
             "period": "am",
             "end_message": "",
