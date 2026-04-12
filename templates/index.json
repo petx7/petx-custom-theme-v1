@@ -558,7 +558,9 @@
           "type": "upsell",
           "settings": {
             "product_list": [
-              "wellness-core-karma-sucha-dla-doroslych-psow-malych-ras-losos-i-tunczyk"
+              "wellness-core-karma-sucha-dla-doroslych-psow-malych-ras-losos-i-tunczyk",
+              "brit-care-dog-hypoallergenic-adult-small-breed-jagniecina",
+              "brit-care-mini-grain-free-adult-jagniecina-2-kg"
             ],
             "product": "zero-splash-filters-4-pack",
             "padding_bottom": 20
@@ -583,7 +585,7 @@
         "form_XEkaQN"
       ],
       "settings": {
-        "product": "core-small-breed-low-fat-karma-sucha-dla-doroslych-psow-malych-ras-indyk-1-5-kg",
+        "product": "brit-care-mini-grain-free-adult-jagniecina-2-kg",
         "product_sticky_enable": true,
         "image_layout": "carousel",
         "image_width": "standard",
@@ -876,7 +878,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_collection_image": "shopify://shop_images/106209_pla_farmina_ndpumpkin_canine_lambblueberry_adultmini_7kg_hs_01_8.jpg",
             "heading": "",
             "block_text_color": "",
             "bg_color": "",
@@ -887,7 +888,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_collection_image": "shopify://shop_images/1_max.jpg",
             "heading": "",
             "block_text_color": "",
             "bg_color": "",
@@ -898,7 +898,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "custom_collection_image": "shopify://shop_images/501562_pla_brit_dental_stick_mobility_curcuma_collagen_hs_01_6.jpg",
             "heading": "",
             "block_text_color": "",
             "bg_color": "",
