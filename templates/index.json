@@ -56,7 +56,7 @@
         "timer_y8P3jf": {
           "type": "timer",
           "settings": {
-            "end_date": "2025-08-31",
+            "end_date": "2026-04-31",
             "end_time": "11:59",
             "period": "am",
             "end_message": "",
@@ -103,6 +103,105 @@
         "width": "wrapper--full",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_list_collection_Xy6XqE": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection_zxJgTb": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/WOW-DOG-MINI-Rind-wolowina-z-jablkiem-i-buraczkami-dla-psow-malych-ras-1kg__4930__1200.jpg",
+            "heading": "Sucha Karma",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_cgbrnX": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/jagniecina-800-g-wizualizacja-1.webp",
+            "heading": "Mokra karma",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_9YYjJj": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/1-1.webp",
+            "heading": "Przysmaki",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_VEAtrV": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/JD_suszona_suszona_kosc_wolowa_z_miesem_front__new.jpg",
+            "heading": "Suszone Gryzaki",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6KmcTt": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/69700_001_still_22.webp",
+            "heading": "Miski",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_4h6Tb4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "custom_collection_image": "shopify://shop_images/image_d0006b9d-a82e-491f-8379-e81a86229aa2.png",
+            "heading": "Aksesoria",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_zxJgTb",
+        "collection_cgbrnX",
+        "collection_9YYjJj",
+        "collection_VEAtrV",
+        "collection_6KmcTt",
+        "collection_4h6Tb4"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "Towary dla psa",
+        "heading_size": 100,
+        "layout": "carousel",
+        "alignment": "center",
+        "collections_per_row": 6,
+        "columns_mobile": "2",
+        "image_shape": "square",
+        "image_aspect_ratio": 1,
+        "enable_product_count": false,
+        "text_size": 130,
+        "overlay_text": false,
+        "enable_slider_mobile": false,
+        "section_bg_color": "",
+        "section_text_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "section-marquee-0": {
@@ -867,105 +966,6 @@
       "settings": {
         "bg_color": "",
         "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "section_list_collection_Xy6XqE": {
-      "type": "section-list-collection",
-      "blocks": {
-        "collection_zxJgTb": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/WOW-DOG-MINI-Rind-wolowina-z-jablkiem-i-buraczkami-dla-psow-malych-ras-1kg__4930__1200.jpg",
-            "heading": "Sucha Karma",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_cgbrnX": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/jagniecina-800-g-wizualizacja-1.webp",
-            "heading": "Mokra karma",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_9YYjJj": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/1-1.webp",
-            "heading": "Przysmaki",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_VEAtrV": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/JD_suszona_suszona_kosc_wolowa_z_miesem_front__new.jpg",
-            "heading": "Suszone Gryzaki",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_6KmcTt": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/69700_001_still_22.webp",
-            "heading": "Miski",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_4h6Tb4": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "custom_collection_image": "shopify://shop_images/image_d0006b9d-a82e-491f-8379-e81a86229aa2.png",
-            "heading": "Aksesoria",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_zxJgTb",
-        "collection_cgbrnX",
-        "collection_9YYjJj",
-        "collection_VEAtrV",
-        "collection_6KmcTt",
-        "collection_4h6Tb4"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "title": "Towary dla psa",
-        "heading_size": 100,
-        "layout": "carousel",
-        "alignment": "center",
-        "collections_per_row": 6,
-        "columns_mobile": "2",
-        "image_shape": "square",
-        "image_aspect_ratio": 1,
-        "enable_product_count": false,
-        "text_size": 130,
-        "overlay_text": false,
-        "enable_slider_mobile": false,
-        "section_bg_color": "",
-        "section_text_color": "",
-        "width": "wrapper--full-padded",
         "padding_top": 60,
         "padding_bottom": 60
       }
