@@ -254,7 +254,7 @@
         "collection": "sucha-karma-dla-psa",
         "products_layout": "carousel",
         "number_of_products": 29,
-        "products_per_row_on_desktop": 4,
+        "products_per_row_on_desktop": 3,
         "columns_mobile": "2",
         "text_alignment": "text-left",
         "title": "<p>Best Sellers</p>",
@@ -344,6 +344,7 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/mega-menu5.jpg",
             "subheading": "No spills",
             "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
             "heading_size": 160,
@@ -359,6 +360,7 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/jagniecina-800-g-wizualizacja-1.webp",
             "subheading": "Perfect for dogs & cats",
             "title": "<p>Suitable for all breeds and sizes.</p>",
             "heading_size": 160,
