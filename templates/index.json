@@ -1011,7 +1011,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/69700_001_still_22.webp",
+            "heading": "Miski",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
