@@ -1027,16 +1027,6 @@
             "bg_color": "",
             "overlay_opacity": 30
           }
-        },
-        "collection_r6MgAB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
@@ -1044,8 +1034,7 @@
         "collection_GmaWqE",
         "collection_RfX9En",
         "collection_dykyCV",
-        "collection_7kKCFE",
-        "collection_r6MgAB"
+        "collection_7kKCFE"
       ],
       "name": "Collection list",
       "settings": {
