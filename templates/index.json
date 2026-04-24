@@ -879,7 +879,7 @@
           "settings": {
             "collection": "",
             "custom_collection_image": "shopify://shop_images/WOW-DOG-MINI-Rind-wolowina-z-jablkiem-i-buraczkami-dla-psow-malych-ras-1kg__4930__1200.jpg",
-            "heading": "Sucha Karma dla psa",
+            "heading": "Sucha Karma",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -889,7 +889,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/jagniecina-800-g-wizualizacja-1.webp",
+            "heading": "Mokra karma",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
