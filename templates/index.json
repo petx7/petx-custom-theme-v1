@@ -657,11 +657,10 @@
           "type": "upsell",
           "settings": {
             "product_list": [
-              "wellness-core-karma-sucha-dla-doroslych-psow-malych-ras-losos-i-tunczyk",
               "brit-care-dog-hypoallergenic-adult-small-breed-jagniecina",
               "brit-care-mini-grain-free-adult-jagniecina-2-kg"
             ],
-            "product": "zero-splash-filters-4-pack",
+            "product": "monobialkowa-karma-sucha-dla-psa-wieprzowina-john-dog-fresh",
             "padding_bottom": 20
           }
         },
@@ -684,7 +683,7 @@
         "form_XEkaQN"
       ],
       "settings": {
-        "product": "brit-care-mini-grain-free-adult-jagniecina-2-kg",
+        "product": "wow-dog-mini-lamm-z-jagniecina-batatami-i-cukinia-dla-psow-malych-ras-1kg",
         "product_sticky_enable": true,
         "image_layout": "carousel",
         "image_width": "standard",
