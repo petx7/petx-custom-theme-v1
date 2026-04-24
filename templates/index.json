@@ -911,7 +911,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/JD_suszona_suszona_kosc_wolowa_z_miesem_front__new.jpg",
+            "heading": "Suszone Gryzaki",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -921,7 +922,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/69700_001_still_22.webp",
+            "heading": "Miski",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -931,7 +933,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/image_d0006b9d-a82e-491f-8379-e81a86229aa2.png",
+            "heading": "Aksesoria",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -948,13 +951,13 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Collections",
+        "title": "Towary dla psa",
         "heading_size": 100,
         "layout": "carousel",
         "alignment": "center",
         "collections_per_row": 6,
         "columns_mobile": "2",
-        "image_shape": "circle",
+        "image_shape": "square",
         "image_aspect_ratio": 1,
         "enable_product_count": false,
         "text_size": 130,
@@ -971,6 +974,7 @@
   "order": [
     "section_video_cUbzJm",
     "section_countdown_WrcXgA",
+    "section_list_collection_Xy6XqE",
     "section-marquee-0",
     "section_collection_y8x3df",
     "section-slideshow-0",
@@ -985,7 +989,6 @@
     "section_accordions_GHxiMM",
     "section_testimonials_with_images_9MULWF",
     "section_icons_row_jdfMxj",
-    "17485147604f99fdce",
-    "section_list_collection_Xy6XqE"
+    "17485147604f99fdce"
   ]
 }
