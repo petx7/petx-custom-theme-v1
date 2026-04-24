@@ -1000,6 +1000,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "custom_collection_image": "shopify://shop_images/2026-04-24_07.59.42.png",
             "heading": "",
             "block_text_color": "",
             "bg_color": "",
