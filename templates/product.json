@@ -30,34 +30,24 @@
             "padding_bottom": 20
           }
         },
-        "ryviu_reviews_qa_ryviu_total_4F9J7Y": {
-          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-total/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "show_when_no_reviews": true,
-            "show_average_rating": true
-          }
-        },
         "icon_row_xeKEXt": {
           "type": "icon_row",
+          "disabled": true,
           "settings": {
             "icon_name_1": "truck",
             "icon_color_1": "",
-            "icon_image_1": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
             "icon_width_1": 35,
             "icon_text_1": "Dishwasher Safe & BPA Free",
             "icon_name_2": "check",
             "icon_color_2": "",
-            "icon_image_2": "shopify://shop_images/image_3.png",
             "icon_width_2": 35,
             "icon_text_2": "Natural Drinking Method",
             "icon_name_3": "heart",
             "icon_color_3": "",
-            "icon_image_3": "shopify://shop_images/image_2_1.png",
             "icon_width_3": 35,
             "icon_text_3": "Minimizes Splashing & Dripping",
             "icon_name_4": "none",
             "icon_color_4": "",
-            "icon_image_4": "shopify://shop_images/image_9.png",
             "icon_width_4": 35,
             "icon_text_4": "Reduces Choking & Vomiting",
             "alignment": "center",
@@ -143,7 +133,6 @@
       "block_order": [
         "title",
         "inventory_countdown",
-        "ryviu_reviews_qa_ryviu_total_4F9J7Y",
         "icon_row_xeKEXt",
         "form",
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
@@ -182,7 +171,7 @@
             "text": "<p>Shop Before It Ends</p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#000",
+            "highlight_color": "#000000",
             "highlight_text_color": ""
           }
         },
@@ -230,7 +219,7 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#FFFFFF",
+        "bg_color": "#ffffff",
         "gradient": "",
         "text_color": "text-light",
         "text_width": "normal",
@@ -246,7 +235,6 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "icon_image": "shopify://shop_images/image_3.png",
             "title": "Natural Drinking Method",
             "text": ""
           }
@@ -255,7 +243,6 @@
           "type": "text",
           "settings": {
             "icon_name": "check",
-            "icon_image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search4_type_keyword_unordered_media_type_all1.png",
             "title": "Dishwasher Safe & BPA Free",
             "text": ""
           }
@@ -264,7 +251,6 @@
           "type": "text",
           "settings": {
             "icon_name": "eco-friendly",
-            "icon_image": "shopify://shop_images/image_9.png",
             "title": "Prevents Choking & Vomiting",
             "text": ""
           }
@@ -273,7 +259,6 @@
           "type": "text",
           "settings": {
             "icon_name": "eco-friendly",
-            "icon_image": "shopify://shop_images/image_2_1.png",
             "title": "Minimizes Splashing & Dripping",
             "text": ""
           }
@@ -297,9 +282,9 @@
         "heading_size": 120,
         "text_size": 100,
         "bg_color": "",
-        "text_color": "#333",
+        "text_color": "#333333",
         "box_color": "",
-        "color_border": "#333",
+        "color_border": "#333333",
         "button_text": "",
         "button_link": "",
         "button_color": "btn--black",
@@ -318,9 +303,7 @@
         "text_alignment": "left",
         "images_width": 750,
         "images_offset": 60,
-        "image_1": "shopify://shop_images/1.png",
         "image_link_1": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
-        "image_2": "shopify://shop_images/3.png",
         "image_link_2": "shopify://products/zero-splash-filters-4-pack",
         "hide_image_2": false,
         "title": "<p>PetX™ AquaGuard 4.5L Spill-Free Dog Water Bowl</p>",
@@ -353,11 +336,10 @@
         "layout": "inline",
         "image_location": "left",
         "image_width": "standard",
-        "image": "shopify://shop_images/giphy.gif",
         "subheading": "",
         "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>No spills</p>",
@@ -384,11 +366,10 @@
         "layout": "inline",
         "image_location": "right",
         "image_width": "standard",
-        "image": "shopify://shop_images/active_status_all_ad_type_all_country_US_q_automatic20_sort_data_direction_desc_sort_data_mode_relevancy_monthly_grouped_search_ty5454pe_keyword_unordered_media_type_all1.gif",
         "subheading": "",
         "title": "<p>Suitable for all breeds and sizes.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>Perfect for dogs & cats</p>",
@@ -415,11 +396,10 @@
         "layout": "inline",
         "image_location": "left",
         "image_width": "standard",
-        "image": "shopify://shop_images/999.gif",
         "subheading": "",
         "title": "<p>Less refilling, more convenience for you and your pet.</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 130,
         "content": "<p>Summer 2025</p>",
@@ -541,22 +521,6 @@
     },
     "174722145913e667de": {
       "type": "apps",
-      "blocks": {
-        "ryviu_reviews_qa_ryviu_widget_rXQ66r": {
-          "type": "shopify://apps/ryviu-reviews-qa/blocks/ryviu-widget/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "r_wapper_class": "",
-            "r_max_width": 1920,
-            "r_padding_block": 0,
-            "hide_when_no_reviews": false,
-            "one_col_on_mobile": false,
-            "hide_title_image_form": false
-          }
-        }
-      },
-      "block_order": [
-        "ryviu_reviews_qa_ryviu_widget_rXQ66r"
-      ],
       "settings": {
         "bg_color": "",
         "width": "wrapper",
