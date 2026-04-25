@@ -428,6 +428,7 @@
         "section-marquee-2-block-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3.webp",
             "link": "",
             "image_width": 160
           }
@@ -450,6 +451,7 @@
         "section-marquee-2-block-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1kg-indyk-junior.webp",
             "link": "",
             "image_width": 160
           }
