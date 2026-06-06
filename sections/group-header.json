@@ -144,7 +144,6 @@
         "sticky_header": true,
         "header_border": true,
         "link_hover_effect": "line",
-        "logo_not_home": "shopify://shop_images/2026-04-24_06.10.50.png",
         "logo_max_width": 250,
         "main-menu": "main-menu",
         "main_menu_secondary": "",
@@ -157,6 +156,7 @@
         "custom_badge_text": "10% OFF",
         "highlight_item_color": "#d02e2e",
         "header_transparent": false,
+        "logo": "shopify://shop_images/C0341A40-7EF9-40AA-8FCF-7E4DDA4140AB.png",
         "header_text_color": "white",
         "header_gradient": true
       }
