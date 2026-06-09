@@ -393,7 +393,7 @@
         "text_alignment": "left",
         "image_position": "",
         "aspect_ratio_desktop": 1.2,
-        "aspect_ratio_mobile": 1,
+        "aspect_ratio_mobile": 1.4,
         "layout_mobile": "sticky",
         "text_color": "text-dark",
         "bg_color": "#ffffff",
