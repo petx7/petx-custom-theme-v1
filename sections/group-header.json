@@ -72,9 +72,9 @@
         "text_size": 125,
         "letter_spacing": 0,
         "message_spacing": 25,
-        "bg_color": "#4a0028",
+        "bg_color": "#e1ff00",
         "gradient": "",
-        "color": "#ffffff",
+        "color": "#000000",
         "border_color": "#ffffff"
       }
     },
@@ -144,7 +144,7 @@
         "sticky_header": true,
         "header_border": true,
         "link_hover_effect": "dot",
-        "logo_not_home": "shopify://shop_images/ChatGPT_Image_6_._2026_._06_27_57.png",
+        "logo_not_home": "shopify://shop_images/ChatGPT_Image_9_._2026_._04_20_55.png",
         "logo_max_width": 250,
         "main-menu": "main-menu",
         "main_menu_secondary": "",
