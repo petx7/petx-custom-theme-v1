@@ -90,7 +90,7 @@
         "show_payment_icons": true,
         "bottom_menu": "footer",
         "color_text": "#000000",
-        "color_bg": "#e1ff00",
+        "color_bg": "#ffffff",
         "color_border": "#ffffff",
         "show_locale_selector": true,
         "show_country_selector": true,
