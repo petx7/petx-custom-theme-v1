@@ -485,6 +485,7 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/ChatGPT_Image_8_._2026_._09_33_44.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "2025",
@@ -501,6 +502,7 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/S8a018e7efc9f437ba6297bebfc57fdady_fd554a1b-b211-4db9-9f17-ee7c58904444.webp",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "2025",
