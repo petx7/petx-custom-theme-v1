@@ -338,6 +338,7 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_9_._2026_._02_29_32.png",
             "subheading": "No spills",
             "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
             "heading_size": 160,
@@ -353,6 +354,7 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_8_._2026_._09_33_44.png",
             "subheading": "Perfect for dogs & cats",
             "title": "<p>Suitable for all breeds and sizes.</p>",
             "heading_size": 160,
@@ -368,6 +370,7 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_8_._2026_._09_23_18.png",
             "subheading": "Summer 2025",
             "title": "<p>Less refilling, more convenience for you and your pet.</p>",
             "heading_size": 160,
@@ -389,7 +392,7 @@
       "settings": {
         "text_alignment": "left",
         "image_position": "",
-        "aspect_ratio_desktop": 1.5,
+        "aspect_ratio_desktop": 1.2,
         "aspect_ratio_mobile": 1,
         "layout_mobile": "sticky",
         "text_color": "text-dark",
