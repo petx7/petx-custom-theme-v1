@@ -52,6 +52,21 @@
             "padding_bottom": 20
           }
         },
+        "icon_nPELMh": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "check",
+            "icon_color": "",
+            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_21_05.png",
+            "icon_width": 50,
+            "icon_text": "Double-Insulated Design – Cold water for hours",
+            "text_size": 90,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
         "inventory_countdown": {
           "type": "inventory_countdown",
           "settings": {
@@ -163,6 +178,7 @@
         "title",
         "icon_xT8bT6",
         "icon_RVnET6",
+        "icon_nPELMh",
         "inventory_countdown",
         "icon_row_xeKEXt",
         "form",
