@@ -22,6 +22,31 @@
             "padding_bottom": 20
           }
         },
+        "icon_row_HJT7c8": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_image_1": "shopify://shop_images/2026-06-09_04.51.10.png",
+            "icon_width_1": 50,
+            "icon_text_1": "Free shipping",
+            "icon_name_2": "check",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Free Returns",
+            "icon_name_3": "heart",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "1% Donated Annually",
+            "icon_name_4": "clock",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Feature",
+            "alignment": "left",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        },
         "inventory_countdown": {
           "type": "inventory_countdown",
           "settings": {
@@ -67,7 +92,6 @@
         },
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
           "type": "icon",
-          "disabled": true,
           "settings": {
             "icon_name": "eco-friendly",
             "icon_color": "#fe0000",
@@ -132,6 +156,7 @@
       },
       "block_order": [
         "title",
+        "icon_row_HJT7c8",
         "inventory_countdown",
         "icon_row_xeKEXt",
         "form",
