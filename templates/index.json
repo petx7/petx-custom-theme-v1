@@ -145,13 +145,41 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#ffffff",
+        "bg_color": "#e1ff00",
         "gradient": "",
         "text_color": "text-dark",
         "text_width": "normal",
         "width": "wrapper--full",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_collection_y8x3df": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "no-spill-dog-bowl",
+        "products_layout": "carousel",
+        "number_of_products": 29,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Best Sellers</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "<p>Top selling Products.</p>",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "section_custom_html_pnqgtr": {
@@ -206,34 +234,6 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "section_collection_y8x3df": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "no-spill-dog-bowl",
-        "products_layout": "carousel",
-        "number_of_products": 29,
-        "products_per_row_on_desktop": 4,
-        "columns_mobile": "2",
-        "text_alignment": "text-left",
-        "title": "<p>Best Sellers</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000000",
-        "highlight_text_color": "",
-        "heading_size": 100,
-        "text": "<p>Top selling Products.</p>",
-        "text_size": 100,
-        "button_position": "top",
-        "button_text": "Shop Now",
-        "button_color": "btn--black",
-        "button_style": "btn--text",
-        "button_size": "btn--large",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": false,
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
       }
     },
     "section-slideshow-0": {
