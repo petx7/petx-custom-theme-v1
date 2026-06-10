@@ -346,7 +346,7 @@
         "icons_width": 75,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
-        "heading_size": 120,
+        "heading_size": 80,
         "text_size": 100,
         "bg_color": "",
         "text_color": "#333333",
