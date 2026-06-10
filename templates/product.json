@@ -15,7 +15,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "subheading": "breadcrumbs",
+            "subheading": "none",
             "title_size": 100,
             "price_size": 100,
             "bold_price": false,
@@ -27,7 +27,7 @@
           "settings": {
             "icon_name": "check",
             "icon_color": "",
-            "icon_image": "shopify://shop_images/2026-06-09_04.51.10.png",
+            "icon_image": "shopify://shop_images/image_2_1.png",
             "icon_width": 50,
             "icon_text": "Keeps Water Fresh & Clean – No plastic taste",
             "text_size": 90,
@@ -42,7 +42,7 @@
           "settings": {
             "icon_name": "check",
             "icon_color": "",
-            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_15_04.png",
+            "icon_image": "shopify://shop_images/image_2.png",
             "icon_width": 50,
             "icon_text": "100% Leak-Proof – Throw it in your bag stress-free",
             "text_size": 90,
@@ -57,7 +57,7 @@
           "settings": {
             "icon_name": "check",
             "icon_color": "",
-            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_21_05.png",
+            "icon_image": "shopify://shop_images/image_3.png",
             "icon_width": 50,
             "icon_text": "Double-Insulated Design – Cold water for hours",
             "text_size": 90,
