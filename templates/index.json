@@ -182,6 +182,16 @@
         "padding_bottom": 60
       }
     },
+    "section_divider_XrFJYr": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_custom_html_pnqgtr": {
       "type": "section-custom-html",
       "name": "Custom code",
@@ -412,7 +422,7 @@
         "section-marquee-2-block-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_15_36.png",
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_20_50.png",
             "link": "",
             "image_width": 160
           }
@@ -425,7 +435,7 @@
         "section-marquee-2-block-3"
       ],
       "settings": {
-        "layout": "parallax",
+        "layout": "marquee-with-parallax",
         "show_top_border": true,
         "show_bottom_border": true,
         "padding": 5,
@@ -871,6 +881,7 @@
     "section_video_cUbzJm",
     "section_countdown_WrcXgA",
     "section_collection_y8x3df",
+    "section_divider_XrFJYr",
     "section_custom_html_pnqgtr",
     "section-marquee-0",
     "section-slideshow-0",
