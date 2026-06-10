@@ -525,9 +525,9 @@
         "title": "WHERE TO BUY SHOPIFY THEME",
         "subheading": "WWW.TRIKRU.CO",
         "text": "<p>BUILT BY TRIKRU</p>",
-        "tabs_bg_color": "#000000",
+        "tabs_bg_color": "#e1ff00",
         "bg_color_secondary": false,
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
