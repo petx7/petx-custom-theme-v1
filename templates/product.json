@@ -607,7 +607,7 @@
           "settings": {
             "icon_name": "truck",
             "title": "Free Shipping",
-            "text": "<p>on all order over $99</p>"
+            "text": "<p>on all order over $39</p>"
           }
         },
         "text_YMjNPm": {
@@ -622,8 +622,8 @@
           "type": "text",
           "settings": {
             "icon_name": "credit-card",
-            "title": "1% Donated",
-            "text": "<p>to forest conservation</p>"
+            "title": "Secure Payments",
+            "text": ""
           }
         }
       },
