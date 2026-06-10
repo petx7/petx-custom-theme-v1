@@ -298,6 +298,7 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
+            "icon_image": "shopify://shop_images/image_3.png",
             "title": "Natural Drinking Method",
             "text": ""
           }
@@ -306,15 +307,8 @@
           "type": "text",
           "settings": {
             "icon_name": "check",
+            "icon_image": "shopify://shop_images/image_2.png",
             "title": "Dishwasher Safe & BPA Free",
-            "text": ""
-          }
-        },
-        "text_PHDT9t": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eco-friendly",
-            "title": "Prevents Choking & Vomiting",
             "text": ""
           }
         },
@@ -322,7 +316,17 @@
           "type": "text",
           "settings": {
             "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_2_1.png",
             "title": "Minimizes Splashing & Dripping",
+            "text": ""
+          }
+        },
+        "text_PHDT9t": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/image_9.png",
+            "title": "Prevents Choking & Vomiting",
             "text": ""
           }
         }
@@ -330,8 +334,8 @@
       "block_order": [
         "text_WYkDHc",
         "text_HhY4qP",
-        "text_PHDT9t",
-        "text_yj8paG"
+        "text_yj8paG",
+        "text_PHDT9t"
       ],
       "name": "Icons row",
       "settings": {
