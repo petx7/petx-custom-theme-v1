@@ -105,7 +105,7 @@
         "timer_y8P3jf": {
           "type": "timer",
           "settings": {
-            "end_date": "2026-04-31",
+            "end_date": "2026-06-15",
             "end_time": "11:59",
             "period": "am",
             "end_message": "",
@@ -359,7 +359,7 @@
         "text_alignment": "left",
         "image_position": "",
         "aspect_ratio_desktop": 1.2,
-        "aspect_ratio_mobile": 1.4,
+        "aspect_ratio_mobile": 1.1,
         "layout_mobile": "sticky",
         "text_color": "text-dark",
         "bg_color": "#ffffff",
