@@ -457,13 +457,13 @@
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "2026",
-            "title": "Zero Splash Filters - 4-Pack",
-            "text": "",
+            "title": "",
+            "text": "2-in-1 Portable Dog Water Bottle",
             "button_1_text": "Shop Now",
             "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
             "button_2_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
-            "overlay_text_color": "text-light"
+            "overlay_text_color": "text-dark"
           }
         },
         "section-grid-1-block-1": {
@@ -475,12 +475,12 @@
             "text_position": "bottom-left",
             "subheading": "2026",
             "title": "",
-            "text": "",
+            "text": "2-in-1 Portable Dog Water Bottle",
             "button_1_text": "Shop Now",
             "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
             "button_2_link": "",
-            "overlay_text_color": "text-light"
+            "overlay_text_color": "text-dark"
           }
         }
       },
