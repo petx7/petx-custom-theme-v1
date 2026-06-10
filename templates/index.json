@@ -1058,6 +1058,75 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_banner_image_akeFCq": {
+      "type": "section-banner-image",
+      "blocks": {
+        "subheading_8J88XD": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Welcome to</p>",
+            "size": 100
+          }
+        },
+        "heading_EAbHhw": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Palo Alto</p>",
+            "size": 180,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": ""
+          }
+        },
+        "text_bdptNi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.</p>",
+            "size": 100
+          }
+        },
+        "button_hnDcPb": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8J88XD",
+        "heading_EAbHhw",
+        "text_bdptNi",
+        "button_hnDcPb"
+      ],
+      "name": "Banner image",
+      "settings": {
+        "height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -1080,6 +1149,7 @@
     "section_icons_row_jdfMxj",
     "17485147604f99fdce",
     "section_list_collection_yUPV7D",
-    "section_custom_html_b7LnFx"
+    "section_custom_html_b7LnFx",
+    "section_banner_image_akeFCq"
   ]
 }
