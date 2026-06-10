@@ -304,25 +304,9 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_9_._2026_._02_29_32.png",
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_22_28.png",
             "subheading": "No spills",
             "title": "<p>Innovative design keeps water inside the bowl, even for messy drinkers.</p>",
-            "heading_size": 160,
-            "truncate_text": true,
-            "heading_length": 15,
-            "button_text": "Shop now",
-            "button_link": "shopify://collections/no-spill-dog-bowl",
-            "button_color": "btn--primary",
-            "button_style": "btn--solid",
-            "button_size": "btn--small"
-          }
-        },
-        "section-sticky-image-cards-0-block-1": {
-          "type": "card",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_8_._2026_._09_33_44.png",
-            "subheading": "Perfect for dogs & cats",
-            "title": "<p>Suitable for all breeds and sizes.</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
@@ -348,12 +332,28 @@
             "button_style": "btn--solid",
             "button_size": "btn--small"
           }
+        },
+        "section-sticky-image-cards-0-block-1": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_20_50.png",
+            "subheading": "Perfect for dogs & cats",
+            "title": "<p>Suitable for all breeds and sizes.</p>",
+            "heading_size": 160,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/no-spill-dog-bowl",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
         }
       },
       "block_order": [
         "section-sticky-image-cards-0-block-0",
-        "section-sticky-image-cards-0-block-1",
-        "section-sticky-image-cards-0-block-2"
+        "section-sticky-image-cards-0-block-2",
+        "section-sticky-image-cards-0-block-1"
       ],
       "settings": {
         "text_alignment": "left",
@@ -456,13 +456,13 @@
             "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_39_40.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
-            "subheading": "2025",
+            "subheading": "2026",
             "title": "Zero Splash Filters - 4-Pack",
             "text": "",
             "button_1_text": "Shop Now",
-            "button_1_link": "shopify://products/zero-splash-filters-4-pack",
+            "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
-            "button_2_link": "",
+            "button_2_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "overlay_text_color": "text-light"
           }
         },
@@ -473,11 +473,11 @@
             "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_38_09.png",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
-            "subheading": "2025",
-            "title": "PetX™ AquaGuard 4.5L Spill-Free Dog Water Bowl",
+            "subheading": "2026",
+            "title": "",
             "text": "",
             "button_1_text": "Shop Now",
-            "button_1_link": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
+            "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
             "button_2_link": "",
             "overlay_text_color": "text-light"
@@ -493,12 +493,12 @@
         "enable_mobile_height": true,
         "mobile_height": "four-fifty-height-mobile",
         "heading_size": 150,
-        "button_1_color": "btn--white",
+        "button_1_color": "btn--black",
         "button_1_style": "btn--solid",
-        "button_1_size": "btn--small",
+        "button_1_size": "btn--large",
         "button_2_color": "btn--black",
         "button_2_style": "btn--text",
-        "button_2_size": "btn--small",
+        "button_2_size": "btn--large",
         "bg_color_secondary": false,
         "enable_slider_mobile": false,
         "columns_mobile": "1",
