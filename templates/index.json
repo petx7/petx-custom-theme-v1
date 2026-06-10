@@ -435,7 +435,7 @@
         "section-marquee-2-block-3"
       ],
       "settings": {
-        "layout": "marquee-with-parallax",
+        "layout": "marquee",
         "show_top_border": true,
         "show_bottom_border": true,
         "padding": 5,
