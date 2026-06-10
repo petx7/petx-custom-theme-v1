@@ -30,7 +30,6 @@
           "type": "image",
           "settings": {
             "width": "100",
-            "image": "shopify://shop_images/JEt_Vane.png",
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
@@ -127,10 +126,10 @@
           "type": "promo",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/4_e4dfe773-31f6-4d03-a00d-09f044c81344.png",
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_28_10.png",
             "position": 5,
             "width": "half",
-            "title": "<p>Zero Splash Bowl</p>",
+            "title": "",
             "heading_highlight_type": "circle",
             "highlight_color": "#fbcaff",
             "highlight_text_color": "#ffffff",
