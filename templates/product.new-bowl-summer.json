@@ -113,10 +113,10 @@
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
           "type": "icon",
           "settings": {
-            "icon_name": "eco-friendly",
+            "icon_name": "package",
             "icon_color": "#fe0000",
             "icon_width": 20,
-            "icon_text": "SHOP AT WWW.TRIKRU.CO",
+            "icon_text": "Klavon",
             "text_size": 90,
             "width": "full",
             "text_alignment": "center",
