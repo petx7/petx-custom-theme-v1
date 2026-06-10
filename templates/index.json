@@ -1270,7 +1270,7 @@
       ],
       "name": "Sticky image cards",
       "settings": {
-        "text_alignment": "left",
+        "text_alignment": "center",
         "image_position": "",
         "aspect_ratio_desktop": 1.5,
         "aspect_ratio_mobile": 1.8,
@@ -1284,6 +1284,7 @@
     }
   },
   "order": [
+    "section_sticky_image_cards_PHjb4D",
     "section_video_cUbzJm",
     "section_countdown_WrcXgA",
     "section_list_collection_Xy6XqE",
@@ -1306,7 +1307,6 @@
     "section_custom_html_b7LnFx",
     "section_banner_image_akeFCq",
     "section_image_with_text_XQcrdR",
-    "section_slideshow_tLdwKB",
-    "section_sticky_image_cards_PHjb4D"
+    "section_slideshow_tLdwKB"
   ]
 }
