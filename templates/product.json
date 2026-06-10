@@ -593,7 +593,66 @@
     "174722145913e667de": {
       "type": "apps",
       "settings": {
+        "bg_color": "#000000",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_VXdq6N": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_AMGcDR": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all order over $99</p>"
+          }
+        },
+        "text_YMjNPm": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Free Returns",
+            "text": "<p>within 30 days of purchase</p>"
+          }
+        },
+        "text_eH9KqE": {
+          "type": "text",
+          "settings": {
+            "icon_name": "credit-card",
+            "title": "1% Donated",
+            "text": "<p>to forest conservation</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AMGcDR",
+        "text_YMjNPm",
+        "text_eH9KqE"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
         "bg_color": "",
+        "text_color": "#333",
+        "box_color": "",
+        "color_border": "#333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
@@ -610,6 +669,7 @@
     "section_image_with_text_AqAhzX",
     "tabs",
     "related",
-    "174722145913e667de"
+    "174722145913e667de",
+    "section_icons_row_VXdq6N"
   ]
 }
