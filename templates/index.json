@@ -509,79 +509,6 @@
         "padding_bottom": 100
       }
     },
-    "section_products_list_hFjwTX": {
-      "type": "section-products-list",
-      "blocks": {
-        "product_wGP9Lt": {
-          "type": "product",
-          "settings": {
-            "product": "petx-aquaguard-no-spill-dog-water-bowl",
-            "title": "",
-            "product_description": "",
-            "button_text": "Shop now",
-            "show_second_image": true,
-            "show_circle": true,
-            "hide_on_mobile": false,
-            "circle_text_color": "#000000",
-            "circle_rotate_animation": "rotate-on-scroll",
-            "circle_text": "New Arrival ~ New Arrival ~",
-            "circle_word_spacing": 3,
-            "circle_size": 150
-          }
-        },
-        "product_QEPawN": {
-          "type": "product",
-          "settings": {
-            "product": "petx-zero-splash-water-bowl-clean-filtered-2l",
-            "title": "",
-            "product_description": "",
-            "button_text": "Shop Now",
-            "show_second_image": true,
-            "show_circle": true,
-            "hide_on_mobile": false,
-            "circle_text_color": "#000000",
-            "circle_rotate_animation": "rotate-on-scroll",
-            "circle_text": "New Arrival ~ New Arrival ~",
-            "circle_word_spacing": 3,
-            "circle_size": 150
-          }
-        },
-        "product_xGY3tR": {
-          "type": "product",
-          "settings": {
-            "product": "petx-the-ultimate-zero-splash-water-bowl",
-            "title": "",
-            "product_description": "",
-            "button_text": "Shop Now",
-            "show_second_image": true,
-            "show_circle": true,
-            "hide_on_mobile": false,
-            "circle_text_color": "#000000",
-            "circle_rotate_animation": "rotate-on-scroll",
-            "circle_text": "New Arrival ~ New Arrival ~",
-            "circle_word_spacing": 3,
-            "circle_size": 150
-          }
-        }
-      },
-      "block_order": [
-        "product_wGP9Lt",
-        "product_QEPawN",
-        "product_xGY3tR"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": 100,
-        "button_color": "btn--black",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "image_aspect_ratio": 1,
-        "bg_color_secondary": false,
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section-newsletter-0": {
       "type": "section-newsletter",
       "settings": {
@@ -951,7 +878,6 @@
     "section-sticky-image-cards-0",
     "section-marquee-2",
     "section-grid-1",
-    "section_products_list_hFjwTX",
     "section-newsletter-0",
     "section_product_bCcw9r",
     "section_blog_ir6niW",
