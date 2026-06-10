@@ -1111,9 +1111,10 @@
       ],
       "name": "Banner image",
       "settings": {
-        "height": "six-fifty-height",
+        "height": "two-thirds-height",
         "enable_mobile_height": false,
-        "mobile_height": "four-fifty-height-mobile",
+        "mobile_height": "seven-fifty-height-mobile",
+        "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
         "overlay_opacity": 10,
         "transition": "zoom-out",
         "enable_zoom_animation": true,
@@ -1126,6 +1127,159 @@
         "width": "wrapper--full",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_XQcrdR": {
+      "type": "section-image-with-text",
+      "name": "Image with text",
+      "settings": {
+        "section_height": "full-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
+        "subheading": "",
+        "title": "<p>Everything's on sale</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 130,
+        "content": "<p>Share details about a promotion, welcome customers, describe a product, or talk about your brand.</p>",
+        "text_alignment": "left",
+        "button_text": "Button text",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--large",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_slideshow_tLdwKB": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_FXXTNM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._02_45_51.png",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "<p>Welcome to Palo Alto</p>",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": "",
+            "text": "Add more info or delete this text",
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "image_7NE3yw": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "<p>Welcome to Palo Alto</p>",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": "",
+            "text": "Add more info or delete this text",
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FXXTNM",
+        "image_7NE3yw"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "slide_height": "two-thirds-height",
+        "enable_mobile_height": false,
+        "mobile_slide_height": "five-fifty-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": false,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "wipe",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "heading_size": 150
+      }
+    },
+    "section_sticky_image_cards_PHjb4D": {
+      "type": "section-sticky-image-cards",
+      "blocks": {
+        "card_aTzqAU": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
+            "subheading": "Our favorite picks",
+            "title": "<p>The best of the season just arrived, handpicked by us.</p>",
+            "heading_size": 100,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Shop New Arrivals",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "card_aTzqAU"
+      ],
+      "name": "Sticky image cards",
+      "settings": {
+        "text_alignment": "left",
+        "image_position": "",
+        "aspect_ratio_desktop": 1.5,
+        "aspect_ratio_mobile": 1.8,
+        "layout_mobile": "sticky",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     }
   },
@@ -1150,6 +1304,9 @@
     "17485147604f99fdce",
     "section_list_collection_yUPV7D",
     "section_custom_html_b7LnFx",
-    "section_banner_image_akeFCq"
+    "section_banner_image_akeFCq",
+    "section_image_with_text_XQcrdR",
+    "section_slideshow_tLdwKB",
+    "section_sticky_image_cards_PHjb4D"
   ]
 }
