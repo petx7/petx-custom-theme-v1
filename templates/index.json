@@ -1097,6 +1097,16 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_custom_html_9rizew": {
+      "type": "section-custom-html",
+      "name": "Custom code",
+      "settings": {
+        "custom_code": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -1120,6 +1130,7 @@
     "section_icons_row_jdfMxj",
     "17485147604f99fdce",
     "section_list_collection_yUPV7D",
-    "section_custom_html_b7LnFx"
+    "section_custom_html_b7LnFx",
+    "section_custom_html_9rizew"
   ]
 }
