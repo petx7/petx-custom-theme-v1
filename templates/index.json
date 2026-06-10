@@ -401,7 +401,7 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_22_28.png",
             "link": "",
-            "image_width": 160
+            "image_width": 90
           }
         },
         "section-marquee-2-block-2": {
@@ -424,7 +424,7 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._06_20_50.png",
             "link": "",
-            "image_width": 160
+            "image_width": 90
           }
         }
       },
