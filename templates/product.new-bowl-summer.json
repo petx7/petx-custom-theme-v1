@@ -569,7 +569,7 @@
     "174722145913e667de": {
       "type": "apps",
       "settings": {
-        "bg_color": "",
+        "bg_color": "#e1ff00",
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
