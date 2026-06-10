@@ -927,90 +927,8 @@
     "17485147604f99fdce": {
       "type": "apps",
       "settings": {
-        "bg_color": "",
+        "bg_color": "#000000",
         "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "section_list_collection_yUPV7D": {
-      "type": "section-list-collection",
-      "blocks": {
-        "collection_qkKMdR": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "Sucha karma",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_GmaWqE": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "Mokra karma",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_RfX9En": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "Przysmaki",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_dykyCV": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "Miski",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_7kKCFE": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "Aksesoria",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_qkKMdR",
-        "collection_GmaWqE",
-        "collection_RfX9En",
-        "collection_dykyCV",
-        "collection_7kKCFE"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "title": "Dla kota",
-        "heading_size": 100,
-        "layout": "carousel",
-        "alignment": "center",
-        "collections_per_row": 5,
-        "columns_mobile": "1",
-        "image_shape": "square",
-        "image_aspect_ratio": 1,
-        "enable_product_count": false,
-        "text_size": 130,
-        "overlay_text": false,
-        "enable_slider_mobile": true,
-        "section_bg_color": "",
-        "section_text_color": "",
-        "width": "wrapper--full-padded",
         "padding_top": 60,
         "padding_bottom": 60
       }
@@ -1036,7 +954,6 @@
     "section_accordions_GHxiMM",
     "section_testimonials_with_images_9MULWF",
     "section_icons_row_jdfMxj",
-    "17485147604f99fdce",
-    "section_list_collection_yUPV7D"
+    "17485147604f99fdce"
   ]
 }
