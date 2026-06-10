@@ -9,8 +9,47 @@
  */
 {
   "sections": {
+    "section_sticky_image_cards_PHjb4D": {
+      "type": "section-sticky-image-cards",
+      "blocks": {
+        "card_aTzqAU": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
+            "subheading": "Our favorite picks",
+            "title": "<p>The best of the season just arrived, handpicked by us.</p>",
+            "heading_size": 100,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Shop New Arrivals",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "card_aTzqAU"
+      ],
+      "name": "Sticky image cards",
+      "settings": {
+        "text_alignment": "center",
+        "image_position": "",
+        "aspect_ratio_desktop": 1.5,
+        "aspect_ratio_mobile": 1.8,
+        "layout_mobile": "sticky",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "section_video_cUbzJm": {
       "type": "section-video",
+      "disabled": true,
       "settings": {
         "video_height": "six-fifty-height",
         "enable_mobile_height": false,
@@ -1242,44 +1281,6 @@
         "enable_card_scrolling": false,
         "increase_border_radius": true,
         "heading_size": 150
-      }
-    },
-    "section_sticky_image_cards_PHjb4D": {
-      "type": "section-sticky-image-cards",
-      "blocks": {
-        "card_aTzqAU": {
-          "type": "card",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
-            "image_mobile": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
-            "subheading": "Our favorite picks",
-            "title": "<p>The best of the season just arrived, handpicked by us.</p>",
-            "heading_size": 100,
-            "truncate_text": true,
-            "heading_length": 15,
-            "button_text": "Shop New Arrivals",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--solid",
-            "button_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "card_aTzqAU"
-      ],
-      "name": "Sticky image cards",
-      "settings": {
-        "text_alignment": "center",
-        "image_position": "",
-        "aspect_ratio_desktop": 1.5,
-        "aspect_ratio_mobile": 1.8,
-        "layout_mobile": "sticky",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff",
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
       }
     }
   },
