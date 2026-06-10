@@ -864,15 +864,15 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "title": "Ekspresowa dostawa w Tychach – do 90 minut",
+            "title": "Free Shipping",
             "text": ""
           }
         },
         "text_w6aWng": {
           "type": "text",
           "settings": {
-            "icon_name": "calendar",
-            "title": "Darmowa dostawa pierwszego zamówienia",
+            "icon_name": "fair-trade",
+            "title": "Easy Returns",
             "text": ""
           }
         },
@@ -880,15 +880,15 @@
           "type": "text",
           "settings": {
             "icon_name": "credit-card",
-            "title": "Łatwe i szybkie płatności online",
+            "title": "Secure Payments",
             "text": ""
           }
         },
         "text_AzMaDA": {
           "type": "text",
           "settings": {
-            "icon_name": "package",
-            "title": "Starannie dobrane marki premium",
+            "icon_name": "star",
+            "title": "Premium Pet Brands",
             "text": ""
           }
         }
@@ -904,10 +904,10 @@
         "subheading": "",
         "alignment": "center",
         "columns": 4,
-        "icons_width": 20,
+        "icons_width": 55,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
-        "heading_size": 120,
+        "heading_size": 90,
         "text_size": 100,
         "bg_color": "",
         "text_color": "#333333",
