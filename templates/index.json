@@ -499,7 +499,7 @@
         "section-grid-1-block-1"
       ],
       "settings": {
-        "desktop_height": "seven-fifty-height",
+        "desktop_height": "original-height",
         "enable_mobile_height": true,
         "mobile_height": "four-fifty-height-mobile",
         "heading_size": 150,
