@@ -47,6 +47,16 @@
         "padding_bottom": 60
       }
     },
+    "section_divider_cdeG6g": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_video_cUbzJm": {
       "type": "section-video",
       "disabled": true,
@@ -1101,9 +1111,11 @@
   },
   "order": [
     "section_sticky_image_cards_PHjb4D",
+    "section_divider_cdeG6g",
     "section_video_cUbzJm",
     "section_countdown_WrcXgA",
     "section_list_collection_Xy6XqE",
+    "section_custom_html_pnqgtr",
     "section-marquee-0",
     "section_collection_y8x3df",
     "section-slideshow-0",
@@ -1119,7 +1131,6 @@
     "section_testimonials_with_images_9MULWF",
     "section_icons_row_jdfMxj",
     "17485147604f99fdce",
-    "section_list_collection_yUPV7D",
-    "section_custom_html_pnqgtr"
+    "section_list_collection_yUPV7D"
   ]
 }
