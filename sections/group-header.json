@@ -80,66 +80,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "position": "1",
-            "image_second_menu": false,
-            "aspect_ratio": 1,
-            "wide_image": false,
-            "title": "",
-            "heading_size": 100,
-            "link_text": "",
-            "link": ""
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "position": "1",
-            "image_second_menu": false,
-            "aspect_ratio": 1,
-            "wide_image": false,
-            "title": "",
-            "heading_size": 100,
-            "link_text": "",
-            "link": ""
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "position": "1",
-            "image_second_menu": false,
-            "aspect_ratio": 1,
-            "wide_image": false,
-            "title": "",
-            "heading_size": 100,
-            "link_text": "",
-            "link": ""
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "position": "1",
-            "image_second_menu": false,
-            "aspect_ratio": 1,
-            "wide_image": false,
-            "title": "",
-            "heading_size": 100,
-            "link_text": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image-0",
-        "image-1",
-        "image-2",
-        "image-3"
-      ],
       "settings": {
         "sticky_header": true,
         "header_border": true,
