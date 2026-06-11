@@ -119,7 +119,7 @@
           "type": "button",
           "settings": {
             "button_1_text": "Shop the sale",
-            "button_1_link": "shopify://collections/all",
+            "button_1_link": "shopify://collections",
             "button_1_color": "btn--white",
             "button_1_style": "btn--solid-border",
             "button_1_size": "btn--medium",
