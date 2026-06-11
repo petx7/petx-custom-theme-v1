@@ -291,47 +291,41 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "title": "Natural Drinking Method",
-            "text": ""
+            "icon_image": "shopify://shop_images/2026-06-09_04.51.10.png",
+            "title": "",
+            "text": "<p>Keeps Water Fresh & Clean – No plastic taste</p>"
           }
         },
         "text_HhY4qP": {
           "type": "text",
           "settings": {
             "icon_name": "check",
-            "title": "Dishwasher Safe & BPA Free",
-            "text": ""
+            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_15_04.png",
+            "title": "",
+            "text": "<p>100% Leak-Proof – Throw it in your bag stress-free</p>"
           }
         },
         "text_PHDT9t": {
           "type": "text",
           "settings": {
             "icon_name": "eco-friendly",
-            "title": "Prevents Choking & Vomiting",
-            "text": ""
-          }
-        },
-        "text_yj8paG": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eco-friendly",
-            "title": "Minimizes Splashing & Dripping",
-            "text": ""
+            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_21_05.png",
+            "title": "",
+            "text": "<p>Double-Insulated Design – Cold water for hours</p>"
           }
         }
       },
       "block_order": [
         "text_WYkDHc",
         "text_HhY4qP",
-        "text_PHDT9t",
-        "text_yj8paG"
+        "text_PHDT9t"
       ],
       "name": "Icons row",
       "settings": {
         "heading": "",
         "subheading": "",
         "alignment": "center",
-        "columns": 4,
+        "columns": 3,
         "icons_width": 75,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
