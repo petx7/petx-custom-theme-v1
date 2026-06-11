@@ -284,68 +284,6 @@
         "padding_bottom": 0
       }
     },
-    "section_icons_row_7Cra8A": {
-      "type": "section-icons-row",
-      "blocks": {
-        "text_WYkDHc": {
-          "type": "text",
-          "settings": {
-            "icon_name": "truck",
-            "icon_image": "shopify://shop_images/2026-06-09_04.51.10.png",
-            "title": "",
-            "text": "<p>Keeps Water Fresh & Clean – No plastic taste</p>"
-          }
-        },
-        "text_HhY4qP": {
-          "type": "text",
-          "settings": {
-            "icon_name": "check",
-            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_15_04.png",
-            "title": "",
-            "text": "<p>100% Leak-Proof – Throw it in your bag stress-free</p>"
-          }
-        },
-        "text_PHDT9t": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eco-friendly",
-            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_21_05.png",
-            "title": "",
-            "text": "<p>Double-Insulated Design – Cold water for hours</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_WYkDHc",
-        "text_HhY4qP",
-        "text_PHDT9t"
-      ],
-      "name": "Icons row",
-      "settings": {
-        "heading": "",
-        "subheading": "",
-        "alignment": "center",
-        "columns": 3,
-        "icons_width": 75,
-        "show_vertical_borders": true,
-        "show_horizontal_borders": true,
-        "heading_size": 120,
-        "text_size": 100,
-        "bg_color": "",
-        "text_color": "#333333",
-        "box_color": "",
-        "color_border": "#333333",
-        "button_text": "",
-        "button_link": "",
-        "button_color": "btn--black",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "layout_mobile": "grid",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section_image_with_text_aFUdpp": {
       "type": "section-image-with-text",
       "name": "Image with text",
@@ -523,6 +461,68 @@
         "padding_bottom": 60
       }
     },
+    "section_icons_row_7Cra8A": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_WYkDHc": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "icon_image": "shopify://shop_images/2026-06-09_04.51.10.png",
+            "title": "",
+            "text": "<p>Keeps Water Fresh & Clean – No plastic taste</p>"
+          }
+        },
+        "text_HhY4qP": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_15_04.png",
+            "title": "",
+            "text": "<p>100% Leak-Proof – Throw it in your bag stress-free</p>"
+          }
+        },
+        "text_PHDT9t": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/ChatGPT_Image_9_._2026_._05_21_05.png",
+            "title": "",
+            "text": "<p>Double-Insulated Design – Cold water for hours</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_WYkDHc",
+        "text_HhY4qP",
+        "text_PHDT9t"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 75,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "related": {
       "type": "related-products",
       "blocks": {
@@ -569,11 +569,11 @@
   "order": [
     "main",
     "section_countdown_8GtydW",
-    "section_icons_row_7Cra8A",
     "section_image_with_text_aFUdpp",
     "section_image_with_text_9KtziG",
     "section_image_with_text_AqAhzX",
     "tabs",
+    "section_icons_row_7Cra8A",
     "related",
     "174722145913e667de"
   ]
