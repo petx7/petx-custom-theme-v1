@@ -224,7 +224,7 @@
         "heading_HJ3d9F": {
           "type": "heading",
           "settings": {
-            "text": "<p>Shop Before It Ends</p>",
+            "text": "<p><strong>Free Shipping on Your First Order</strong></p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
             "highlight_color": "#000000",
@@ -234,7 +234,7 @@
         "timer_9zcWja": {
           "type": "timer",
           "settings": {
-            "end_date": "2025-06-01",
+            "end_date": "2026-06-015",
             "end_time": "11:59",
             "period": "am",
             "end_message": "",
@@ -253,7 +253,7 @@
             "button_1_style": "btn--solid-border",
             "button_1_size": "btn--medium",
             "button_2_text": "",
-            "button_2_link": "",
+            "button_2_link": "shopify://collections/all",
             "button_2_color": "btn--black",
             "button_2_style": "btn--solid",
             "button_2_size": "btn--small"
@@ -275,9 +275,9 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#ffffff",
+        "bg_color": "#e1ff00",
         "gradient": "",
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "text_width": "normal",
         "width": "wrapper--full",
         "padding_top": 0,
@@ -348,38 +348,6 @@
         "button_size": "btn--small",
         "layout_mobile": "grid",
         "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "overlapping-images-0": {
-      "type": "section-overlapping-images",
-      "settings": {
-        "text_position": "left",
-        "text_alignment": "left",
-        "images_width": 750,
-        "images_offset": 60,
-        "image_link_1": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
-        "image_link_2": "shopify://products/zero-splash-filters-4-pack",
-        "hide_image_2": false,
-        "title": "<p>PetX™ AquaGuard 4.5L Spill-Free Dog Water Bowl</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#fe0000",
-        "highlight_text_color": "",
-        "description": "",
-        "heading_size": 100,
-        "button_text": "Shop now",
-        "button_link": "shopify://products/petx-aquaguard-no-spill-dog-water-bowl",
-        "button_color": "btn--black",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "video_text": "",
-        "video_link": "",
-        "bg_color_secondary": false,
-        "gradient": "",
-        "animation": "horizontal",
-        "animation_intensity": 50,
-        "width": "wrapper--full-padded",
         "padding_top": 60,
         "padding_bottom": 60
       }
@@ -592,7 +560,6 @@
     "main",
     "section_countdown_8GtydW",
     "section_icons_row_7Cra8A",
-    "overlapping-images-0",
     "section_image_with_text_aFUdpp",
     "section_image_with_text_9KtziG",
     "section_image_with_text_AqAhzX",
