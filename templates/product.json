@@ -241,7 +241,7 @@
         "timer_9zcWja": {
           "type": "timer",
           "settings": {
-            "end_date": "2025-06-01",
+            "end_date": "2026-06-014",
             "end_time": "11:59",
             "period": "am",
             "end_message": "",
@@ -282,9 +282,9 @@
         "mobile_height": "400",
         "overlay_opacity": 10,
         "enable_zoom_animation": true,
-        "bg_color": "#ffffff",
+        "bg_color": "#e1ff00",
         "gradient": "",
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "text_width": "normal",
         "width": "wrapper--full",
         "padding_top": 0,
