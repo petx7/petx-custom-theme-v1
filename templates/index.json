@@ -17,13 +17,13 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
             "image_mobile": "shopify://shop_images/ChatGPT_Image_10_._2026_._03_17_14.png",
-            "subheading": "Our favorite picks",
-            "title": "<p>The best of the season just arrived, handpicked by us.</p>",
+            "subheading": "Welcome to Klavon™",
+            "title": "<p>Thoughtfully designed products that make caring for your pets easier, safer, and more enjoyable.</p><p></p><p></p><p></p>",
             "heading_size": 100,
             "truncate_text": true,
             "heading_length": 15,
-            "button_text": "Shop New Arrivals",
-            "button_link": "",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all",
             "button_color": "btn--black",
             "button_style": "btn--solid",
             "button_size": "btn--large"
