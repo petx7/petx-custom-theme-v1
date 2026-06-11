@@ -716,6 +716,7 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
+            "image": "shopify://shop_images/6d3c77a39c33382de641424cac9d13d7.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
@@ -729,9 +730,9 @@
           "settings": {
             "star_rating": 5,
             "enable_border": true,
-            "heading": "Best grooming tool ever!",
+            "heading": "Amazing product!",
             "text_size": 125,
-            "text": "<p>I’ve tried many grooming brushes, but this one is by far the easiest to use, and my cat loves it!</p>",
+            "text": "<p>This bowl actually does what it promises. My Labrador used to leave water all over the kitchen floor, and now the mess is almost gone.</p>",
             "customer_name": "Jake Harrison",
             "subheading": "<p>12 days ago</p>"
           }
@@ -741,6 +742,7 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
+            "image": "shopify://shop_images/3ecbe4cb26a14119a30f2b16085e6be8.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
@@ -766,6 +768,7 @@
           "settings": {
             "star_rating": 5,
             "enable_border": false,
+            "image": "shopify://shop_images/9794bf48b3809ee00c7f62fcb859e7f9.jpg",
             "aspect_ratio": 0.8,
             "heading": "Love it!",
             "text_size": 125,
