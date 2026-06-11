@@ -75,7 +75,7 @@
     "enable_cart_notes": true,
     "enable_gift_notes": false,
     "enable_additional_buttons": true,
-    "empty_cart_heading": "PETX",
+    "empty_cart_heading": "Klavon",
     "empty_cart_collection_list": [
       "no-spill-dog-bowl"
     ],
@@ -83,11 +83,11 @@
     "empty_cart_collection_overlay": true,
     "empty_cart_collection_text_color": "text-light",
     "empty_cart_button_text": "Shop now",
-    "empty_cart_button_link": "shopify://collections/zero-splash-filters-4-pack",
+    "empty_cart_button_link": "shopify://collections/no-spill-dog-bowl",
     "collection_button_color": "btn--black",
     "collection_button_style": "btn--text",
     "empty_cart_buttons": "",
-    "free_shipping_limit": "27",
+    "free_shipping_limit": "29.90",
     "cart_custom_message_text": "<p>FREE SHIPPING</p>",
     "cart_custom_message_color": "text-dark",
     "enable_accept_terms": false,
@@ -148,7 +148,19 @@
     "checkout_accent_color": "#edb3f2",
     "checkout_button_color": "#fbcaff",
     "checkout_error_color": "#d02e2e",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "14180685425891500600": {
+        "type": "shopify://apps/ryviu-product-reviews/blocks/loyalty/807ad6ed-1a6a-4559-abea-ed062858d9da",
+        "disabled": false,
+        "settings": {}
+      },
+      "1990815452989453926": {
+        "type": "shopify://apps/ryviu-product-reviews/blocks/ryviu-js/807ad6ed-1a6a-4559-abea-ed062858d9da",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Vibrant": {
