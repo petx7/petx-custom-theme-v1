@@ -16,11 +16,10 @@
       "blocks": {
         "footer-block-0": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "alignment": "text-left",
-            "title": "PetX™ Zero Splash Bowl",
-            "footer_text": "<p>No spills. Just clean water. 🐾💧</p>",
+            "title": "Klavon",
+            "footer_text": "<p>Premium accessories designed for happy pets and the people who love them.</p><p></p>",
             "column_width": "20"
           }
         },
