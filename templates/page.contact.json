@@ -31,14 +31,28 @@
         "contact-form-1": {
           "type": "text",
           "settings": {
-            "title": "Name",
+            "title": "First Name",
+            "required": true
+          }
+        },
+        "text_YTFfkB": {
+          "type": "text",
+          "settings": {
+            "title": "Last Name",
+            "required": false
+          }
+        },
+        "telephone_EVfDt7": {
+          "type": "telephone",
+          "settings": {
+            "title": "Phone Number",
             "required": false
           }
         },
         "contact-form-2": {
           "type": "email",
           "settings": {
-            "title": "Email",
+            "title": "Email Address",
             "required": true
           }
         },
@@ -53,14 +67,34 @@
       "block_order": [
         "contact-form-0",
         "contact-form-1",
+        "text_YTFfkB",
+        "telephone_EVfDt7",
         "contact-form-2",
         "contact-form-3"
       ],
       "settings": {
         "button_color": "btn--black",
         "button_style": "btn--solid",
-        "button_size": "btn--large",
+        "button_size": "btn--medium",
         "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_newsletter_FPxwVH": {
+      "type": "section-newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "flex_align": "align--middle-left",
+        "text_color": "text-dark",
+        "title": "Newsletter",
+        "text": "<p>Sign up for exclusive deals and early access to new products.</p>",
+        "extra_fields": "",
+        "button_text": "",
+        "bg_color": "",
+        "image_height": "three-fifty-height",
+        "overlay_opacity": 10,
+        "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
       }
@@ -68,6 +102,7 @@
   },
   "order": [
     "main",
-    "contact-form"
+    "contact-form",
+    "section_newsletter_FPxwVH"
   ]
 }
