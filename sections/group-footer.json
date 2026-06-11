@@ -16,6 +16,7 @@
       "blocks": {
         "footer-block-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "alignment": "text-left",
             "title": "PetX™ Zero Splash Bowl",
@@ -36,7 +37,7 @@
           "type": "link",
           "settings": {
             "alignment": "text-left",
-            "menu": "main-menu",
+            "menu": "legal",
             "title": "Legal",
             "column_width": "20"
           }
