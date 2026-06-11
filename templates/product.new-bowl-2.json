@@ -445,8 +445,15 @@
         "acordion-0": {
           "type": "text",
           "settings": {
-            "title": "What kind of pet products do you offer?",
-            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
+            "title": "How does the Klavon™ AquaGo work?",
+            "text": "<p>Simply fill the bottle with fresh water, unfold the built-in bowl, and pour water for your dog to drink. It's designed for quick and convenient hydration wherever you go.</p>"
+          }
+        },
+        "text_Na9gw4": {
+          "type": "text",
+          "settings": {
+            "title": "Is it easy to clean?",
+            "text": "<p>Yes. The bottle is designed with smooth surfaces that are easy to rinse and clean after each use, helping maintain proper hygiene for your pet.</p>"
           }
         },
         "text_EpLfq6": {
@@ -466,8 +473,15 @@
         "text_n4xnDG": {
           "type": "text",
           "settings": {
-            "title": "Do your products come with a warranty?",
-            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
+            "title": "Is the bottle leak-proof?",
+            "text": "<p>Yes! The Klavon™ AquaGo features a secure leak-resistant design that helps prevent spills and leaks while traveling, hiking, or carrying it in your bag.</p>"
+          }
+        },
+        "text_rf7knY": {
+          "type": "text",
+          "settings": {
+            "title": "Is it safe for my pet?",
+            "text": "<p>Yes. The AquaGo is made from pet-friendly materials designed for safe everyday use.</p>"
           }
         },
         "text_r8D4eh": {
@@ -480,25 +494,27 @@
         "text_dxYfRd": {
           "type": "text",
           "settings": {
-            "title": "How do I choose the right size bed or bowl for my pet?",
-            "text": "<p>Each product page includes sizing information and recommendations. If you have any questions, feel free to reach out to us for assistance.</p>"
+            "title": "Can I use it for other pets besides dogs?",
+            "text": "<p>Absolutely! The AquaGo can also be used for cats, rabbits, and other small pets that need access to fresh water while traveling.</p><h3></h3>"
           }
         }
       },
       "block_order": [
         "acordion-0",
+        "text_Na9gw4",
         "text_EpLfq6",
         "text_gyjEqa",
         "text_n4xnDG",
+        "text_rf7knY",
         "text_r8D4eh",
         "text_dxYfRd"
       ],
       "settings": {
         "layout": "two-columns",
         "show_accordion_divider": false,
-        "title": "WHERE TO BUY SHOPIFY THEME",
-        "subheading": "WWW.TRIKRU.CO",
-        "text": "<p>BUILT BY TRIKRU</p>",
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
         "tabs_bg_color": "#e1ff00",
         "bg_color_secondary": false,
         "text_color": "text-dark",
