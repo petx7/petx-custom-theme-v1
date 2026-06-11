@@ -495,8 +495,15 @@
         "acordion-0": {
           "type": "text",
           "settings": {
-            "title": "What kind of pet products do you offer?",
-            "text": "<p>We offer a wide range of pet products, including water bowls, beds, toys, grooming supplies, and more. All products are carefully selected for your pet's comfort and health.</p>"
+            "title": "How does the anti-splash design work?",
+            "text": "<p>The bowl features a floating plate that controls the amount of water exposed on the surface, helping reduce splashes, spills, and wet floors.</p>"
+          }
+        },
+        "text_deUeRh": {
+          "type": "text",
+          "settings": {
+            "title": "Is this bowl suitable for all dog breeds?",
+            "text": "<p>Yes. The bowl is designed for dogs of all sizes, from small puppies to large breeds.</p>"
           }
         },
         "text_EpLfq6": {
@@ -516,8 +523,15 @@
         "text_n4xnDG": {
           "type": "text",
           "settings": {
-            "title": "Do your products come with a warranty?",
-            "text": "<p> Yes, all of our products come with a warranty. If you experience any issues, please contact our support team, and we will assist you.</p>"
+            "title": "What size should I choose for my dog?",
+            "text": "<p>The 1L bowl is ideal for small dogs and puppies. The 2L size works well for most medium-sized dogs. The 4.5L bowl is perfect for large breeds or multi-pet households.</p>"
+          }
+        },
+        "text_LrhRVd": {
+          "type": "text",
+          "settings": {
+            "title": "Can I use it for cats as well?",
+            "text": "<p>Absolutely. Many cat owners choose this bowl because it helps keep water cleaner and reduces splashing.</p>"
           }
         },
         "text_r8D4eh": {
@@ -537,18 +551,20 @@
       },
       "block_order": [
         "acordion-0",
+        "text_deUeRh",
         "text_EpLfq6",
         "text_gyjEqa",
         "text_n4xnDG",
+        "text_LrhRVd",
         "text_r8D4eh",
         "text_dxYfRd"
       ],
       "settings": {
         "layout": "two-columns",
         "show_accordion_divider": false,
-        "title": "WHERE TO BUY SHOPIFY THEME",
-        "subheading": "WWW.TRIKRU.CO",
-        "text": "<p>BUILT BY TRIKRU</p>",
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
         "tabs_bg_color": "#e1ff00",
         "bg_color_secondary": false,
         "text_color": "text-dark",
