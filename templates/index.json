@@ -95,7 +95,7 @@
         "heading_Dt636z": {
           "type": "heading",
           "settings": {
-            "text": "<p>Darmowa dostawa na Twój pierwszy zakup</p>",
+            "text": "<p><strong>Free Shipping on Your First Order</strong></p><p></p>",
             "size": 120,
             "heading_highlight_type": "underline-hand-drawn",
             "highlight_color": "#000000",
