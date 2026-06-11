@@ -17,7 +17,7 @@
         "announcement-0": {
           "type": "text",
           "settings": {
-            "text": "<p>EKSPRES W TYCHACH DO 90 MIN!</p>",
+            "text": "<p><strong>ONLY TODAY -50% OFF</strong></p>",
             "text_color": "",
             "heading_highlight_type": "circle",
             "highlight_color": "#d43747",
@@ -36,7 +36,7 @@
         "text_gUjJdD": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>DARMOWA DOSTAWA NA TWÓJ PIERWSZY ZAKUP</strong></p>",
+            "text": "<p><strong>FREE SHIPPING</strong></p>",
             "text_color": "",
             "heading_highlight_type": "underline-hand-drawn",
             "highlight_color": "#000000",
