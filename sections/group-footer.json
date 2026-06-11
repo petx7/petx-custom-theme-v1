@@ -23,13 +23,6 @@
             "column_width": "20"
           }
         },
-        "footer-block-1": {
-          "type": "divider",
-          "settings": {
-            "show_border_line": false,
-            "column_width": "20"
-          }
-        },
         "footer-block-2": {
           "type": "link",
           "settings": {
@@ -39,12 +32,21 @@
             "column_width": "15"
           }
         },
+        "link_xjTVUB": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "main-menu",
+            "title": "Legal",
+            "column_width": "20"
+          }
+        },
         "footer-block-3": {
           "type": "link",
           "settings": {
             "alignment": "text-left",
             "menu": "footer",
-            "title": "Info",
+            "title": "Support",
             "column_width": "15"
           }
         },
@@ -74,8 +76,8 @@
       },
       "block_order": [
         "footer-block-0",
-        "footer-block-1",
         "footer-block-2",
+        "link_xjTVUB",
         "footer-block-3",
         "footer-block-4",
         "logo_full_bQxgwX"
