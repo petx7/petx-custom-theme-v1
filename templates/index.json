@@ -473,7 +473,7 @@
             "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
             "button_2_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
-            "overlay_text_color": "text-dark"
+            "overlay_text_color": "text-light"
           }
         },
         "section-grid-1-block-1": {
@@ -490,7 +490,7 @@
             "button_1_link": "shopify://products/2-in-1-portable-dog-water-bottle-for-small-dogs-leak-proof-compact-dog-travel-water-bottle-stainless-steel-bottle-silicon",
             "button_2_text": "",
             "button_2_link": "",
-            "overlay_text_color": "text-dark"
+            "overlay_text_color": "text-light"
           }
         }
       },
