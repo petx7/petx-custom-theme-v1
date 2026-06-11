@@ -202,50 +202,6 @@
         "padding_bottom": 60
       }
     },
-    "section-marquee-0": {
-      "type": "section-marquee",
-      "blocks": {
-        "section-marquee-0-block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Welcome to <em><strong>PETX</strong></em></p>",
-            "text_color": "",
-            "heading_highlight_type": "highlight-color",
-            "highlight_color": "#ff001b",
-            "highlight_text_color": "#ff0000",
-            "icon_name": "none",
-            "icon_color": "",
-            "icon_width": 25,
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "section-marquee-0-block-2"
-      ],
-      "settings": {
-        "layout": "marquee",
-        "show_top_border": false,
-        "show_bottom_border": false,
-        "padding": 10,
-        "marquee_speed": 100,
-        "direction": "ticker-ltr",
-        "slider_speed": 7,
-        "show_arrows": false,
-        "text_caps": false,
-        "type_style": "subheading-text",
-        "text_size": 120,
-        "letter_spacing": 0,
-        "message_spacing": 10,
-        "bg_color": "#ffffff",
-        "gradient": "",
-        "color": "#000000",
-        "border_color": "#000000",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "section-slideshow-0": {
       "type": "section-slideshow",
       "settings": {
@@ -270,7 +226,7 @@
         "text_WrFRTM": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to <em><strong>PETX</strong></em></p>",
+            "text": "<p>Welcome to <em><strong>KLAVON</strong></em></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -376,6 +332,50 @@
         "width": "wrapper--full-padded",
         "padding_top": 100,
         "padding_bottom": 100
+      }
+    },
+    "section-marquee-0": {
+      "type": "section-marquee",
+      "blocks": {
+        "section-marquee-0-block-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to <em><strong>Klavon</strong></em></p>",
+            "text_color": "",
+            "heading_highlight_type": "highlight-color",
+            "highlight_color": "#ff001b",
+            "highlight_text_color": "#ff0000",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 25,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "section-marquee-0-block-2"
+      ],
+      "settings": {
+        "layout": "marquee",
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "padding": 10,
+        "marquee_speed": 100,
+        "direction": "ticker-ltr",
+        "slider_speed": 7,
+        "show_arrows": false,
+        "text_caps": false,
+        "type_style": "subheading-text",
+        "text_size": 120,
+        "letter_spacing": 0,
+        "message_spacing": 10,
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "color": "#000000",
+        "border_color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "section-marquee-2": {
@@ -883,10 +883,10 @@
     "section_collection_y8x3df",
     "section_divider_XrFJYr",
     "section_custom_html_pnqgtr",
-    "section-marquee-0",
     "section-slideshow-0",
     "section_marquee_Ug8e8y",
     "section-sticky-image-cards-0",
+    "section-marquee-0",
     "section-marquee-2",
     "section-grid-1",
     "section-newsletter-0",
