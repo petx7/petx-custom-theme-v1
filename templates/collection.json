@@ -25,6 +25,7 @@
     },
     "b5058786-b763-4ab8-b375-d96e3dbab791": {
       "type": "section-grid",
+      "disabled": true,
       "settings": {
         "desktop_height": "three-fifty-height",
         "enable_mobile_height": false,
